@@ -1,0 +1,3640 @@
+{
+  "generated_from": "angfa-products.json",
+  "item_count": 245,
+  "items": [
+    {
+      "id": "FEMPTN00A",
+      "product_code": "FEMPTN00A",
+      "answer": "【pitôn home】家庭用デリケートゾーン美容機器",
+      "answer_normalized": "【pitôn home】家庭用デリケートゾーン美容機器",
+      "image_url": "./public/assets/products/FEMPTN00A.webp",
+      "product_url": "https://www.angfa-store.jp/product/FEMPTN00A",
+      "categories": [
+        "女性用一覧",
+        "デリケートゾーンケア一覧"
+      ],
+      "price_jpy": 93500,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/FEMPTN00A1/FEMPTN00A1-0.webp"
+    },
+    {
+      "id": "HTPMSC00A",
+      "product_code": "HTPMSC00A",
+      "answer": "【東京都23区居住者のみ対象】オムテック パーフェクトメンズシードチェッカー",
+      "answer_normalized": "【東京都23区居住者のみ対象】オムテック パーフェクトメンズシードチェッカー",
+      "image_url": "./public/assets/products/HTPMSC00A.webp",
+      "product_url": "https://www.angfa-store.jp/product/HTPMSC00A",
+      "categories": [
+        "男性用一覧",
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 17600,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTPMSC00A1/HTPMSC00A1-0.webp"
+    },
+    {
+      "id": "SDSRP000A",
+      "product_code": "SDSRP000A",
+      "answer": "SonoRepro 家庭用超音波スカルプケアデバイス",
+      "answer_normalized": "SonoRepro 家庭用超音波スカルプケアデバイス",
+      "image_url": "./public/assets/products/SDSRP000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDSRP000A",
+      "categories": [
+        "男性用一覧",
+        "その他ヘアケア商品一覧"
+      ],
+      "price_jpy": 137500,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDSRP000A1/SDSRP000A1-0.jpg"
+    },
+    {
+      "id": "SPEXD000A",
+      "product_code": "SPEXD000A",
+      "answer": "アンファー サプリメント EPA×DHAプラス",
+      "answer_normalized": "アンファー サプリメント EPA×DHAプラス",
+      "image_url": "./public/assets/products/SPEXD000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SPEXD000A",
+      "categories": [
+        "男性用一覧",
+        "サプリメント一覧",
+        "女性用一覧"
+      ],
+      "price_jpy": 1980,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SPEXD000A1/SPEXD000A1-0.jpg"
+    },
+    {
+      "id": "DUGSW000A",
+      "product_code": "DUGSW000A",
+      "answer": "アンファー サプリメント ウェルナイト",
+      "answer_normalized": "アンファー サプリメント ウェルナイト",
+      "image_url": "./public/assets/products/DUGSW000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/DUGSW000A",
+      "categories": [
+        "男性用一覧",
+        "サプリメント一覧",
+        "女性用一覧"
+      ],
+      "price_jpy": 1600,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DUGSW000A2/DUGSW000A2-0.jpg"
+    },
+    {
+      "id": "SPCXE000A",
+      "product_code": "SPCXE000A",
+      "answer": "アンファー サプリメント カロレス酵素",
+      "answer_normalized": "アンファー サプリメント カロレス酵素",
+      "image_url": "./public/assets/products/SPCXE000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SPCXE000A",
+      "categories": [
+        "男性用一覧",
+        "サプリメント一覧",
+        "女性用一覧"
+      ],
+      "price_jpy": 1450,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SPCXE000A1/SPCXE000A1-0.jpg"
+    },
+    {
+      "id": "SPMXK000A",
+      "product_code": "SPMXK000A",
+      "answer": "アンファー サプリメント マカ×クラチャイダム",
+      "answer_normalized": "アンファー サプリメント マカ×クラチャイダム",
+      "image_url": "./public/assets/products/SPMXK000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SPMXK000A",
+      "categories": [
+        "男性用一覧",
+        "サプリメント一覧"
+      ],
+      "price_jpy": 1650,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SPMXK000A1/SPMXK000A1-0.jpg"
+    },
+    {
+      "id": "SPMVT000A",
+      "product_code": "SPMVT000A",
+      "answer": "アンファー サプリメント マルチビタミン",
+      "answer_normalized": "アンファー サプリメント マルチビタミン",
+      "image_url": "./public/assets/products/SPMVT000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SPMVT000A",
+      "categories": [
+        "男性用一覧",
+        "サプリメント一覧",
+        "女性用一覧"
+      ],
+      "price_jpy": 1000,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SPMVT000A1/SPMVT000A1-0.jpg"
+    },
+    {
+      "id": "DRPR1000A",
+      "product_code": "DRPR1000A",
+      "answer": "アンファー シェーカー",
+      "answer_normalized": "アンファー シェーカー",
+      "image_url": "./public/assets/products/DRPR1000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/DRPR1000A",
+      "categories": [
+        "男性用一覧",
+        "食品一覧",
+        "女性用一覧"
+      ],
+      "price_jpy": 458,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DRPR1000A1/DRPR1000A1-0.jpg"
+    },
+    {
+      "id": "DRBBG000A",
+      "product_code": "DRBBG000A",
+      "answer": "アンファー ビオバランシング＆グロウショット",
+      "answer_normalized": "アンファー ビオバランシング＆グロウショット",
+      "image_url": "./public/assets/products/DRBBG000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DRBBG000A",
+      "categories": [
+        "女性用一覧"
+      ],
+      "price_jpy": 5940,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DRBBG000A1/DRBBG000A1-0.webp"
+    },
+    {
+      "id": "BTCO3000A",
+      "product_code": "BTCO3000A",
+      "answer": "ウッドヘアケアブラシ",
+      "answer_normalized": "ウッドヘアケアブラシ",
+      "image_url": "./public/assets/products/BTCO3000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/BTCO3000A",
+      "categories": [
+        "その他ヘアケア商品一覧"
+      ],
+      "price_jpy": 1650,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTCO3000A1/BTCO3000A1-0.webp"
+    },
+    {
+      "id": "HTGVS000A",
+      "product_code": "HTGVS000A",
+      "answer": "オムテック ガルシノールバイタルサプリメント",
+      "answer_normalized": "オムテック ガルシノールバイタルサプリメント",
+      "image_url": "./public/assets/products/HTGVS000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/HTGVS000A",
+      "categories": [
+        "男性用一覧",
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 3996,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTGVS000A1/HTGVS000A1-0.webp"
+    },
+    {
+      "id": "HTGVS00XS",
+      "product_code": "HTGVS00XS",
+      "answer": "オムテック ガルシノールバイタルサプリメント 2個セット",
+      "answer_normalized": "オムテック ガルシノールバイタルサプリメント 2個セット",
+      "image_url": "./public/assets/products/HTGVS00XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/HTGVS00XS",
+      "categories": [
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 7992,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTGVS00XS1/HTGVS00XS1-0.webp"
+    },
+    {
+      "id": "HTGVS01XS",
+      "product_code": "HTGVS01XS",
+      "answer": "オムテック ガルシノールバイタルサプリメント 3個セット",
+      "answer_normalized": "オムテック ガルシノールバイタルサプリメント 3個セット",
+      "image_url": "./public/assets/products/HTGVS01XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/HTGVS01XS",
+      "categories": [
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 11988,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTGVS01XS1/HTGVS01XS1-0.webp"
+    },
+    {
+      "id": "HTRUW08XS",
+      "product_code": "HTRUW08XS",
+      "answer": "オムテック スペシャル スメケアセット",
+      "answer_normalized": "オムテック スペシャル スメケアセット",
+      "image_url": "./public/assets/products/HTRUW08XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/HTRUW08XS",
+      "categories": [
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 6570,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTRUW08XS1/HTRUW08XS1-0.webp"
+    },
+    {
+      "id": "HTHGD000A",
+      "product_code": "HTHGD000A",
+      "answer": "オムテック はぐくむお出汁",
+      "answer_normalized": "オムテック はぐくむお出汁",
+      "image_url": "./public/assets/products/HTHGD000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/HTHGD000A",
+      "categories": [
+        "男性用一覧",
+        "食品一覧",
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 2300,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTHGD000A1/HTHGD000A1-0.jpg"
+    },
+    {
+      "id": "HTHGS000A",
+      "product_code": "HTHGS000A",
+      "answer": "オムテック はぐくむ白雑穀",
+      "answer_normalized": "オムテック はぐくむ白雑穀",
+      "image_url": "./public/assets/products/HTHGS000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/HTHGS000A",
+      "categories": [
+        "食品一覧"
+      ],
+      "price_jpy": 2300,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTHGS000A1/HTHGS000A1-0.webp"
+    },
+    {
+      "id": "HTHGS03XS",
+      "product_code": "HTHGS03XS",
+      "answer": "オムテック はぐくむ白雑穀3個セット",
+      "answer_normalized": "オムテック はぐくむ白雑穀3個セット",
+      "image_url": "./public/assets/products/HTHGS03XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/HTHGS03XS",
+      "categories": [
+        "食品一覧"
+      ],
+      "price_jpy": 6900,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTHGS03XS1/HTHGS03XS1-0.webp"
+    },
+    {
+      "id": "HTHGM000A",
+      "product_code": "HTHGM000A",
+      "answer": "オムテック はぐくむ麦茶",
+      "answer_normalized": "オムテック はぐくむ麦茶",
+      "image_url": "./public/assets/products/HTHGM000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/HTHGM000A",
+      "categories": [
+        "食品一覧"
+      ],
+      "price_jpy": 2300,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTHGM000A1/HTHGM000A1-0.webp"
+    },
+    {
+      "id": "HTHGM03XS",
+      "product_code": "HTHGM03XS",
+      "answer": "オムテック はぐくむ麦茶3個セット",
+      "answer_normalized": "オムテック はぐくむ麦茶3個セット",
+      "image_url": "./public/assets/products/HTHGM03XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/HTHGM03XS",
+      "categories": [
+        "食品一覧"
+      ],
+      "price_jpy": 6900,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTHGM03XS1/HTHGM03XS1-0.webp"
+    },
+    {
+      "id": "HTMWP08XS",
+      "product_code": "HTMWP08XS",
+      "answer": "オムテック メンズウェルネスプロテイン 飲み比べセット（チョコレート味・抹茶味）",
+      "answer_normalized": "オムテック メンズウェルネスプロテイン 飲み比べセット（チョコレート味・抹茶味）",
+      "image_url": "./public/assets/products/HTMWP08XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/HTMWP08XS",
+      "categories": [
+        "サプリメント一覧",
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 11988,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTMWP08XS1/HTMWP08XS1-0.webp"
+    },
+    {
+      "id": "HTMWP000A",
+      "product_code": "HTMWP000A",
+      "answer": "オムテック メンズウェルネスプロテイン（チョコレート味）",
+      "answer_normalized": "オムテック メンズウェルネスプロテイン（チョコレート味）",
+      "image_url": "./public/assets/products/HTMWP000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/HTMWP000A",
+      "categories": [
+        "男性用一覧",
+        "サプリメント一覧",
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 5994,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTMWP000A1/HTMWP000A1-0.jpg"
+    },
+    {
+      "id": "HTMWP02XS",
+      "product_code": "HTMWP02XS",
+      "answer": "オムテック メンズウェルネスプロテイン(チョコレート味) 3個 シェイカーセット",
+      "answer_normalized": "オムテック メンズウェルネスプロテイン(チョコレート味) 3個 シェイカーセット",
+      "image_url": "./public/assets/products/HTMWP02XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/HTMWP02XS",
+      "categories": [
+        "サプリメント一覧",
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 18440,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTMWP02XS1/HTMWP02XS1-0.jpg"
+    },
+    {
+      "id": "HTMWP00XS",
+      "product_code": "HTMWP00XS",
+      "answer": "オムテック メンズウェルネスプロテイン(チョコレート味) 3個セット",
+      "answer_normalized": "オムテック メンズウェルネスプロテイン(チョコレート味) 3個セット",
+      "image_url": "./public/assets/products/HTMWP00XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/HTMWP00XS",
+      "categories": [
+        "サプリメント一覧",
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 17982,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTMWP00XS1/HTMWP00XS1-0.jpg"
+    },
+    {
+      "id": "HTMWP01XS",
+      "product_code": "HTMWP01XS",
+      "answer": "オムテック メンズウェルネスプロテイン(チョコレート味) シェイカーセット",
+      "answer_normalized": "オムテック メンズウェルネスプロテイン(チョコレート味) シェイカーセット",
+      "image_url": "./public/assets/products/HTMWP01XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/HTMWP01XS",
+      "categories": [
+        "サプリメント一覧",
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 6452,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTMWP01XS1/HTMWP01XS1-0.jpg"
+    },
+    {
+      "id": "HTMWPB00A",
+      "product_code": "HTMWPB00A",
+      "answer": "オムテック メンズウェルネスプロテイン（バナナ味）",
+      "answer_normalized": "オムテック メンズウェルネスプロテイン（バナナ味）",
+      "image_url": "./public/assets/products/HTMWPB00A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/HTMWPB00A",
+      "categories": [
+        "男性用一覧",
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 5994,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTMWPB00A1/HTMWPB00A1-0.jpg"
+    },
+    {
+      "id": "HTMWPB0XS",
+      "product_code": "HTMWPB0XS",
+      "answer": "オムテック メンズウェルネスプロテイン(バナナ味)+シェイカーセット",
+      "answer_normalized": "オムテック メンズウェルネスプロテイン(バナナ味)+シェイカーセット",
+      "image_url": "./public/assets/products/HTMWPB0XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/HTMWPB0XS",
+      "categories": [
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 6452,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTMWPB0XS1/HTMWPB0XS1-0.jpg"
+    },
+    {
+      "id": "HTMWPB2XS",
+      "product_code": "HTMWPB2XS",
+      "answer": "オムテック メンズウェルネスプロテイン(バナナ味)×3個+シェイカー セット",
+      "answer_normalized": "オムテック メンズウェルネスプロテイン(バナナ味)×3個+シェイカー セット",
+      "image_url": "./public/assets/products/HTMWPB2XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/HTMWPB2XS",
+      "categories": [
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 18440,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTMWPB2XS1/HTMWPB2XS1-0.jpg"
+    },
+    {
+      "id": "HTMWPB3XS",
+      "product_code": "HTMWPB3XS",
+      "answer": "オムテック メンズウェルネスプロテイン(バナナ味)×3個セット",
+      "answer_normalized": "オムテック メンズウェルネスプロテイン(バナナ味)×3個セット",
+      "image_url": "./public/assets/products/HTMWPB3XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/HTMWPB3XS",
+      "categories": [
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 17982,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTMWPB3XS1/HTMWPB3XS1-0.jpg"
+    },
+    {
+      "id": "HTMWPM00A",
+      "product_code": "HTMWPM00A",
+      "answer": "オムテック メンズウェルネスプロテイン（抹茶味）",
+      "answer_normalized": "オムテック メンズウェルネスプロテイン（抹茶味）",
+      "image_url": "./public/assets/products/HTMWPM00A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/HTMWPM00A",
+      "categories": [
+        "男性用一覧",
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 5994,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTMWPM00A1/HTMWPM00A1-0.jpg"
+    },
+    {
+      "id": "HTMWP07XS",
+      "product_code": "HTMWP07XS",
+      "answer": "オムテック メンズウェルネスプロテイン(抹茶味) 3個 シェイカーセット",
+      "answer_normalized": "オムテック メンズウェルネスプロテイン(抹茶味) 3個 シェイカーセット",
+      "image_url": "./public/assets/products/HTMWP07XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/HTMWP07XS",
+      "categories": [
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 18440,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTMWP07XS1/HTMWP07XS1-0.jpg"
+    },
+    {
+      "id": "HTMWP06XS",
+      "product_code": "HTMWP06XS",
+      "answer": "オムテック メンズウェルネスプロテイン(抹茶味) 3個セット",
+      "answer_normalized": "オムテック メンズウェルネスプロテイン(抹茶味) 3個セット",
+      "image_url": "./public/assets/products/HTMWP06XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/HTMWP06XS",
+      "categories": [
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 17982,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTMWP06XS1/HTMWP06XS1-0.jpg"
+    },
+    {
+      "id": "HTMWP05XS",
+      "product_code": "HTMWP05XS",
+      "answer": "オムテック メンズウェルネスプロテイン(抹茶味) シェイカーセット",
+      "answer_normalized": "オムテック メンズウェルネスプロテイン(抹茶味) シェイカーセット",
+      "image_url": "./public/assets/products/HTMWP05XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/HTMWP05XS",
+      "categories": [
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 6452,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTMWP05XS1/HTMWP05XS1-0.jpg"
+    },
+    {
+      "id": "HTMSS000A",
+      "product_code": "HTMSS000A",
+      "answer": "オムテック メンズシードサプリメント",
+      "answer_normalized": "オムテック メンズシードサプリメント",
+      "image_url": "./public/assets/products/HTMSS000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/HTMSS000A",
+      "categories": [
+        "男性用一覧",
+        "サプリメント一覧",
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 14040,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTMSS000A1/HTMSS000A1-0.jpg"
+    },
+    {
+      "id": "HTMSS00XS",
+      "product_code": "HTMSS00XS",
+      "answer": "オムテック メンズシードサプリメント 3個セット",
+      "answer_normalized": "オムテック メンズシードサプリメント 3個セット",
+      "image_url": "./public/assets/products/HTMSS00XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/HTMSS00XS",
+      "categories": [
+        "サプリメント一覧",
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 42120,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTMSS00XS1/HTMSS00XS1-0.jpg"
+    },
+    {
+      "id": "HTRUW000A",
+      "product_code": "HTRUW000A",
+      "answer": "オムテック ライジングアップ ウォッシュ",
+      "answer_normalized": "オムテック ライジングアップ ウォッシュ",
+      "image_url": "./public/assets/products/HTRUW000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/HTRUW000A",
+      "categories": [
+        "男性用一覧",
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 1950,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTRUW000A1/HTRUW000A1-0.jpg"
+    },
+    {
+      "id": "HTRUW02XS",
+      "product_code": "HTRUW02XS",
+      "answer": "オムテック ライジングアップ ウォッシュ 2本セット",
+      "answer_normalized": "オムテック ライジングアップ ウォッシュ 2本セット",
+      "image_url": "./public/assets/products/HTRUW02XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/HTRUW02XS",
+      "categories": [
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 3900,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTRUW02XS1/HTRUW02XS1-0.jpg"
+    },
+    {
+      "id": "HTRUW03XS",
+      "product_code": "HTRUW03XS",
+      "answer": "オムテック ライジングアップ ウォッシュ 3本セット",
+      "answer_normalized": "オムテック ライジングアップ ウォッシュ 3本セット",
+      "image_url": "./public/assets/products/HTRUW03XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/HTRUW03XS",
+      "categories": [
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 5850,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTRUW03XS1/HTRUW03XS1-0.webp"
+    },
+    {
+      "id": "HTRUS000A",
+      "product_code": "HTRUS000A",
+      "answer": "オムテック ライジングアップ サプリメント",
+      "answer_normalized": "オムテック ライジングアップ サプリメント",
+      "image_url": "./public/assets/products/HTRUS000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/HTRUS000A",
+      "categories": [
+        "男性用一覧",
+        "サプリメント一覧",
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 2850,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTRUS000A1/HTRUS000A1-0.jpg"
+    },
+    {
+      "id": "HTRUS02XS",
+      "product_code": "HTRUS02XS",
+      "answer": "オムテック ライジングアップ サプリメント 2個セット",
+      "answer_normalized": "オムテック ライジングアップ サプリメント 2個セット",
+      "image_url": "./public/assets/products/HTRUS02XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/HTRUS02XS",
+      "categories": [
+        "サプリメント一覧",
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 5700,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTRUS02XS1/HTRUS02XS1-0.webp"
+    },
+    {
+      "id": "HTRUS03XS",
+      "product_code": "HTRUS03XS",
+      "answer": "オムテック ライジングアップ サプリメント 3個セット",
+      "answer_normalized": "オムテック ライジングアップ サプリメント 3個セット",
+      "image_url": "./public/assets/products/HTRUS03XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/HTRUS03XS",
+      "categories": [
+        "サプリメント一覧",
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 8550,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTRUS03XS1/HTRUS03XS1-0.jpg"
+    },
+    {
+      "id": "HTRUH000A",
+      "product_code": "HTRUH000A",
+      "answer": "オムテック ライジングアップ シート",
+      "answer_normalized": "オムテック ライジングアップ シート",
+      "image_url": "./public/assets/products/HTRUH000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/HTRUH000A",
+      "categories": [
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 1650,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTRUH000A1/HTRUH000A1-0.webp"
+    },
+    {
+      "id": "HTRUH02XS",
+      "product_code": "HTRUH02XS",
+      "answer": "オムテック ライジングアップ シート×2個セット",
+      "answer_normalized": "オムテック ライジングアップ シート×2個セット",
+      "image_url": "./public/assets/products/HTRUH02XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/HTRUH02XS",
+      "categories": [
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 3300,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTRUH02XS1/HTRUH02XS1-0.webp"
+    },
+    {
+      "id": "HTDPCD00A",
+      "product_code": "HTDPCD00A",
+      "answer": "オムテック ライジングアップ ディープクレンジング デバイス",
+      "answer_normalized": "オムテック ライジングアップ ディープクレンジング デバイス",
+      "image_url": "./public/assets/products/HTDPCD00A.webp",
+      "product_url": "https://www.angfa-store.jp/product/HTDPCD00A",
+      "categories": [
+        "男性用一覧",
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 38500,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTDPCD00A1/HTDPCD00A1-0.webp"
+    },
+    {
+      "id": "HTDPCD0XS",
+      "product_code": "HTDPCD0XS",
+      "answer": "オムテック ライジングアップ ディープクレンジング デバイス&ウォッシュ&ミスト",
+      "answer_normalized": "オムテック ライジングアップ ディープクレンジング デバイス&ウォッシュ&ミスト",
+      "image_url": "./public/assets/products/HTDPCD0XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/HTDPCD0XS",
+      "categories": [
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 43420,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTDPCD0XS1/HTDPCD0XS1-0.webp"
+    },
+    {
+      "id": "HTRUM000A",
+      "product_code": "HTRUM000A",
+      "answer": "オムテック ライジングアップ ミスト",
+      "answer_normalized": "オムテック ライジングアップ ミスト",
+      "image_url": "./public/assets/products/HTRUM000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/HTRUM000A",
+      "categories": [
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 2970,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTRUM000A1/HTRUM000A1-0.webp"
+    },
+    {
+      "id": "HTRUM02XS",
+      "product_code": "HTRUM02XS",
+      "answer": "オムテック ライジングアップ ミスト×2本セット",
+      "answer_normalized": "オムテック ライジングアップ ミスト×2本セット",
+      "image_url": "./public/assets/products/HTRUM02XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/HTRUM02XS",
+      "categories": [
+        "男性コンディションケア一覧"
+      ],
+      "price_jpy": 5940,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTRUM02XS1/HTRUM02XS1-0.webp"
+    },
+    {
+      "id": "BTSPC00XS",
+      "product_code": "BTSPC00XS",
+      "answer": "スカルプ D ボーテ スカルプシャンプー＆トリートメントパック ボリューム クールセット",
+      "answer_normalized": "スカルプ D ボーテ スカルプシャンプー＆トリートメントパック ボリューム クールセット",
+      "image_url": "./public/assets/products/BTSPC00XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/BTSPC00XS",
+      "categories": [
+        "女性用一覧"
+      ],
+      "price_jpy": 4950,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTSPC00XS1/BTSPC00XS1-0.webp"
+    },
+    {
+      "id": "SDSWH000A",
+      "product_code": "SDSWH000A",
+      "answer": "スカルプD D-ヘッドスパ(浄水カートリッジ2本付き)",
+      "answer_normalized": "スカルプD D-ヘッドスパ(浄水カートリッジ2本付き)",
+      "image_url": "./public/assets/products/SDSWH000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDSWH000A",
+      "categories": [
+        "男性用一覧",
+        "その他ヘアケア商品一覧",
+        "女性用一覧"
+      ],
+      "price_jpy": 17600,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDSWH000A1/SDSWH000A1-0.jpg"
+    },
+    {
+      "id": "SDSW1000A",
+      "product_code": "SDSW1000A",
+      "answer": "スカルプD D-ヘッドスパ専用浄水カートリッジ(2本)",
+      "answer_normalized": "スカルプD D-ヘッドスパ専用浄水カートリッジ(2本)",
+      "image_url": "./public/assets/products/SDSW1000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDSW1000A",
+      "categories": [
+        "男性用一覧",
+        "その他ヘアケア商品一覧",
+        "女性用一覧"
+      ],
+      "price_jpy": 4400,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDSW1000A1/SDSW1000A1-0.jpg"
+    },
+    {
+      "id": "SDXPT000A",
+      "product_code": "SDXPT000A",
+      "answer": "スカルプD NEXT+ スカルプパックコンディショナー",
+      "answer_normalized": "スカルプD NEXT+ スカルプパックコンディショナー",
+      "image_url": "./public/assets/products/SDXPT000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDXPT000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 2134,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDXPT000A2/SDXPT000A2-0.webp"
+    },
+    {
+      "id": "SDXPTT00A",
+      "product_code": "SDXPTT00A",
+      "answer": "スカルプD NEXT+ スカルプパックコンディショナー つめかえ用",
+      "answer_normalized": "スカルプD NEXT+ スカルプパックコンディショナー つめかえ用",
+      "image_url": "./public/assets/products/SDXPTT00A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDXPTT00A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 1793,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDXPTT00A2/SDXPTT00A2-0.webp"
+    },
+    {
+      "id": "SDXDT000A",
+      "product_code": "SDXDT000A",
+      "answer": "スカルプD NEXT+ スカルプパックコンディショナー つめかえ用 2倍量",
+      "answer_normalized": "スカルプD NEXT+ スカルプパックコンディショナー つめかえ用 2倍量",
+      "image_url": "./public/assets/products/SDXDT000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDXDT000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 3300,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDXDT000A1/SDXDT000A1-0.webp"
+    },
+    {
+      "id": "SDXGMO0XS",
+      "product_code": "SDXGMO0XS",
+      "answer": "スカルプD NEXT＋ スタイリング＆アウトバス3点セット(グリース・ミルクオイル・ブースターオイル)",
+      "answer_normalized": "スカルプD NEXT＋ スタイリング＆アウトバス3点セット(グリース・ミルクオイル・ブースターオイル)",
+      "image_url": "./public/assets/products/SDXGMO0XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDXGMO0XS",
+      "categories": [
+        "スタイリング剤一覧"
+      ],
+      "price_jpy": 7150,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDXGMO0XS1/SDXGMO0XS1-0.webp"
+    },
+    {
+      "id": "SDXPO000A",
+      "product_code": "SDXPO000A",
+      "answer": "スカルプD NEXT+ ボリュームアップシャンプー オイリー",
+      "answer_normalized": "スカルプD NEXT+ ボリュームアップシャンプー オイリー",
+      "image_url": "./public/assets/products/SDXPO000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDXPO000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 2134,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDXPO000A2/SDXPO000A2-0.webp"
+    },
+    {
+      "id": "SDXPOT00A",
+      "product_code": "SDXPOT00A",
+      "answer": "スカルプD NEXT+ ボリュームアップシャンプー オイリー つめかえ用",
+      "answer_normalized": "スカルプD NEXT+ ボリュームアップシャンプー オイリー つめかえ用",
+      "image_url": "./public/assets/products/SDXPOT00A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDXPOT00A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 1793,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDXPOT00A2/SDXPOT00A2-0.webp"
+    },
+    {
+      "id": "SDXDO000A",
+      "product_code": "SDXDO000A",
+      "answer": "スカルプD NEXT+ ボリュームアップシャンプー オイリー つめかえ用 2倍量",
+      "answer_normalized": "スカルプD NEXT+ ボリュームアップシャンプー オイリー つめかえ用 2倍量",
+      "image_url": "./public/assets/products/SDXDO000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDXDO000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 3300,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDXDO000A1/SDXDO000A1-0.webp"
+    },
+    {
+      "id": "SDXPD000A",
+      "product_code": "SDXPD000A",
+      "answer": "スカルプD NEXT+ ボリュームアップシャンプー ドライ",
+      "answer_normalized": "スカルプD NEXT+ ボリュームアップシャンプー ドライ",
+      "image_url": "./public/assets/products/SDXPD000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDXPD000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 2134,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDXPD000A2/SDXPD000A2-0.webp"
+    },
+    {
+      "id": "SDXPDT00A",
+      "product_code": "SDXPDT00A",
+      "answer": "スカルプD NEXT+ ボリュームアップシャンプー ドライ つめかえ用",
+      "answer_normalized": "スカルプD NEXT+ ボリュームアップシャンプー ドライ つめかえ用",
+      "image_url": "./public/assets/products/SDXPDT00A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDXPDT00A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 1793,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDXPDT00A2/SDXPDT00A2-0.webp"
+    },
+    {
+      "id": "SDXDD000A",
+      "product_code": "SDXDD000A",
+      "answer": "スカルプD NEXT+ ボリュームアップシャンプー ドライ つめかえ用 2倍量",
+      "answer_normalized": "スカルプD NEXT+ ボリュームアップシャンプー ドライ つめかえ用 2倍量",
+      "image_url": "./public/assets/products/SDXDD000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDXDD000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 3300,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDXDD000A1/SDXDD000A1-0.webp"
+    },
+    {
+      "id": "SDXPJ000A",
+      "product_code": "SDXPJ000A",
+      "answer": "スカルプD NEXT+ ボリュームアップトニック",
+      "answer_normalized": "スカルプD NEXT+ ボリュームアップトニック",
+      "image_url": "./public/assets/products/SDXPJ000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDXPJ000A",
+      "categories": [
+        "男性用一覧",
+        "育毛剤・育毛スプレー一覧"
+      ],
+      "price_jpy": 2134,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDXPJ000A2/SDXPJ000A2-0.webp"
+    },
+    {
+      "id": "BTPFE000A",
+      "product_code": "BTPFE000A",
+      "answer": "スカルプD アイブロウセラム ピュア",
+      "answer_normalized": "スカルプD アイブロウセラム ピュア",
+      "image_url": "./public/assets/products/BTPFE000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTPFE000A",
+      "categories": [
+        "女性用一覧",
+        "まつげ美容液一覧"
+      ],
+      "price_jpy": 1780,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTPFE000A4/BTPFE000A4-0.jpg"
+    },
+    {
+      "id": "BTPFL000A",
+      "product_code": "BTPFL000A",
+      "answer": "スカルプD アイライナー リッチブラック",
+      "answer_normalized": "スカルプD アイライナー リッチブラック",
+      "image_url": "./public/assets/products/BTPFL000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTPFL000A",
+      "categories": [
+        "女性用一覧",
+        "まつげ美容液一覧"
+      ],
+      "price_jpy": 1730,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTPFL000A4/BTPFL000A4-0.jpg"
+    },
+    {
+      "id": "BTPFZ000A",
+      "product_code": "BTPFZ000A",
+      "answer": "スカルプD アイライナー（ナチュラルブラウン）",
+      "answer_normalized": "スカルプD アイライナー（ナチュラルブラウン）",
+      "image_url": "./public/assets/products/BTPFZ000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/BTPFZ000A",
+      "categories": [
+        "女性用一覧",
+        "まつげ美容液一覧"
+      ],
+      "price_jpy": 1730,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTPFZ000A4/BTPFZ000A4-0.webp"
+    },
+    {
+      "id": "BTPPQ000A",
+      "product_code": "BTPPQ000A",
+      "answer": "スカルプＤ アイラッシュセラム クイーン",
+      "answer_normalized": "スカルプＤ アイラッシュセラム クイーン",
+      "image_url": "./public/assets/products/BTPPQ000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTPPQ000A",
+      "categories": [
+        "女性用一覧",
+        "まつげ美容液一覧"
+      ],
+      "price_jpy": 8900,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTPPQ000A2/BTPPQ000A2-0.jpg"
+    },
+    {
+      "id": "BTPPQT00A",
+      "product_code": "BTPPQT00A",
+      "answer": "スカルプＤ アイラッシュセラム クイーン たまごっちデザイン",
+      "answer_normalized": "スカルプＤ アイラッシュセラム クイーン たまごっちデザイン",
+      "image_url": "./public/assets/products/BTPPQT00A.webp",
+      "product_url": "https://www.angfa-store.jp/product/BTPPQT00A",
+      "categories": [
+        "まつげ美容液一覧"
+      ],
+      "price_jpy": 8800,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTPPQT00A1/BTPPQT00A1-0.webp"
+    },
+    {
+      "id": "BTPFN000A",
+      "product_code": "BTPFN000A",
+      "answer": "スカルプＤ アイラッシュセラム ピュア",
+      "answer_normalized": "スカルプＤ アイラッシュセラム ピュア",
+      "image_url": "./public/assets/products/BTPFN000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTPFN000A",
+      "categories": [
+        "女性用一覧",
+        "まつげ美容液一覧"
+      ],
+      "price_jpy": 1780,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTPFN000A4/BTPFN000A4-0.jpg"
+    },
+    {
+      "id": "BTPFT000A",
+      "product_code": "BTPFT000A",
+      "answer": "スカルプＤ アイラッシュセラム ピュア たまごっちデザイン",
+      "answer_normalized": "スカルプＤ アイラッシュセラム ピュア たまごっちデザイン",
+      "image_url": "./public/assets/products/BTPFT000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/BTPFT000A",
+      "categories": [
+        "まつげ美容液一覧"
+      ],
+      "price_jpy": 1780,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTPFT000A1/BTPFT000A1-0.webp"
+    },
+    {
+      "id": "BTPFP000A",
+      "product_code": "BTPFP000A",
+      "answer": "スカルプD アイラッシュセラム プレミアム",
+      "answer_normalized": "スカルプD アイラッシュセラム プレミアム",
+      "image_url": "./public/assets/products/BTPFP000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/BTPFP000A",
+      "categories": [
+        "女性用一覧",
+        "まつげ美容液一覧"
+      ],
+      "price_jpy": 3560,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTPFP000A3/BTPFP000A3-0.webp"
+    },
+    {
+      "id": "BTPFH000A",
+      "product_code": "BTPFH000A",
+      "answer": "スカルプD アイラッシュセラム プレミアム たまごっちデザイン",
+      "answer_normalized": "スカルプD アイラッシュセラム プレミアム たまごっちデザイン",
+      "image_url": "./public/assets/products/BTPFH000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/BTPFH000A",
+      "categories": [
+        "まつげ美容液一覧"
+      ],
+      "price_jpy": 3560,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTPFH000A1/BTPFH000A1-0.webp"
+    },
+    {
+      "id": "SDBSA000A",
+      "product_code": "SDBSA000A",
+      "answer": "スカルプD アクティブデオ ボディソープ",
+      "answer_normalized": "スカルプD アクティブデオ ボディソープ",
+      "image_url": "./public/assets/products/SDBSA000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDBSA000A",
+      "categories": [
+        "男性用一覧",
+        "UV・スキンケア一覧",
+        "ボディケア一覧"
+      ],
+      "price_jpy": 2546,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDBSA000A1/SDBSA000A1-0.jpg"
+    },
+    {
+      "id": "SDWXF000A",
+      "product_code": "SDWXF000A",
+      "answer": "スカルプD アレンジワックス",
+      "answer_normalized": "スカルプD アレンジワックス",
+      "image_url": "./public/assets/products/SDWXF000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDWXF000A",
+      "categories": [
+        "男性用一覧",
+        "スタイリング剤一覧"
+      ],
+      "price_jpy": 2048,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDWXF000A2/SDWXF000A2-0.jpg"
+    },
+    {
+      "id": "SDOOL000A",
+      "product_code": "SDOOL000A",
+      "answer": "スカルプD オーガニック スカルプシャンプー オイリー [脂性肌用]",
+      "answer_normalized": "スカルプD オーガニック スカルプシャンプー オイリー [脂性肌用]",
+      "image_url": "./public/assets/products/SDOOL000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDOOL000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 1986,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDOOL000A1/SDOOL000A1-0.jpg"
+    },
+    {
+      "id": "SDOOT000A",
+      "product_code": "SDOOT000A",
+      "answer": "スカルプD オーガニック スカルプシャンプー オイリー [脂性肌用] つめかえ用",
+      "answer_normalized": "スカルプD オーガニック スカルプシャンプー オイリー [脂性肌用] つめかえ用",
+      "image_url": "./public/assets/products/SDOOT000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDOOT000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 1650,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDOOT000A1/SDOOT000A1-0.jpg"
+    },
+    {
+      "id": "SDODR000A",
+      "product_code": "SDODR000A",
+      "answer": "スカルプD オーガニック スカルプシャンプー ドライ (乾燥肌用)",
+      "answer_normalized": "スカルプD オーガニック スカルプシャンプー ドライ (乾燥肌用)",
+      "image_url": "./public/assets/products/SDODR000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDODR000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 1986,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDODR000A1/SDODR000A1-0.jpg"
+    },
+    {
+      "id": "SDOPK000A",
+      "product_code": "SDOPK000A",
+      "answer": "スカルプD オーガニック スカルプパックコンディショナー",
+      "answer_normalized": "スカルプD オーガニック スカルプパックコンディショナー",
+      "image_url": "./public/assets/products/SDOPK000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDOPK000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 1986,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDOPK000A1/SDOPK000A1-0.jpg"
+    },
+    {
+      "id": "SDOPT000A",
+      "product_code": "SDOPT000A",
+      "answer": "スカルプD オーガニック スカルプパックコンディショナー つめかえ用",
+      "answer_normalized": "スカルプD オーガニック スカルプパックコンディショナー つめかえ用",
+      "image_url": "./public/assets/products/SDOPT000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDOPT000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 1650,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDOPT000A1/SDOPT000A1-0.jpg"
+    },
+    {
+      "id": "SDOBS000A",
+      "product_code": "SDOBS000A",
+      "answer": "​スカルプD オーガニックボディソープ",
+      "answer_normalized": "​スカルプD オーガニックボディソープ",
+      "image_url": "./public/assets/products/SDOBS000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDOBS000A",
+      "categories": [
+        "男性用一覧",
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 1500,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDOBS000A1/SDOBS000A1-0.jpg"
+    },
+    {
+      "id": "SDBSG000A",
+      "product_code": "SDBSG000A",
+      "answer": "スカルプD グリーンベール ボディソープ",
+      "answer_normalized": "スカルプD グリーンベール ボディソープ",
+      "image_url": "./public/assets/products/SDBSG000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDBSG000A",
+      "categories": [
+        "男性用一覧",
+        "UV・スキンケア一覧",
+        "ボディケア一覧"
+      ],
+      "price_jpy": 1815,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDBSG000A1/SDBSG000A1-0.jpg"
+    },
+    {
+      "id": "SPFAR000A",
+      "product_code": "SPFAR000A",
+      "answer": "スカルプD サプリメント ゴールド ファイブ・アルファ・アール 30日分",
+      "answer_normalized": "スカルプD サプリメント ゴールド ファイブ・アルファ・アール 30日分",
+      "image_url": "./public/assets/products/SPFAR000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SPFAR000A",
+      "categories": [
+        "男性用一覧",
+        "サプリメント一覧"
+      ],
+      "price_jpy": 7000,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SPFAR000A2/SPFAR000A2-0.jpg"
+    },
+    {
+      "id": "SPIKM000A",
+      "product_code": "SPIKM000A",
+      "answer": "スカルプD サプリメント ゴールド マルチグロース 30日分",
+      "answer_normalized": "スカルプD サプリメント ゴールド マルチグロース 30日分",
+      "image_url": "./public/assets/products/SPIKM000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SPIKM000A",
+      "categories": [
+        "男性用一覧",
+        "サプリメント一覧"
+      ],
+      "price_jpy": 5660,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SPIKM000A2/SPIKM000A2-0.jpg"
+    },
+    {
+      "id": "SPSXH000A",
+      "product_code": "SPSXH000A",
+      "answer": "スカルプD サプリメント シトルリン×ヒハツ 30日分",
+      "answer_normalized": "スカルプD サプリメント シトルリン×ヒハツ 30日分",
+      "image_url": "./public/assets/products/SPSXH000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SPSXH000A",
+      "categories": [
+        "男性用一覧",
+        "サプリメント一覧"
+      ],
+      "price_jpy": 1600,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SPSXH000A3/SPSXH000A3-0.jpg"
+    },
+    {
+      "id": "SPNGY000A",
+      "product_code": "SPNGY000A",
+      "answer": "スカルプＤ サプリメント ノコギリヤシ 30日分",
+      "answer_normalized": "スカルプＤ サプリメント ノコギリヤシ 30日分",
+      "image_url": "./public/assets/products/SPNGY000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SPNGY000A",
+      "categories": [
+        "男性用一覧",
+        "サプリメント一覧"
+      ],
+      "price_jpy": 1400,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SPNGY000A3/SPNGY000A3-0.jpg"
+    },
+    {
+      "id": "SPPCN000A",
+      "product_code": "SPPCN000A",
+      "answer": "スカルプD サプリメント ハイブリッド プロテイン (カフェオレ味) 600g",
+      "answer_normalized": "スカルプD サプリメント ハイブリッド プロテイン (カフェオレ味) 600g",
+      "image_url": "./public/assets/products/SPPCN000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SPPCN000A",
+      "categories": [
+        "男性用一覧",
+        "サプリメント一覧"
+      ],
+      "price_jpy": 4200,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SPPCN000A2/SPPCN000A2-0.jpg"
+    },
+    {
+      "id": "SPPCL000A",
+      "product_code": "SPPCL000A",
+      "answer": "スカルプD サプリメント ハイブリッド プロテイン (カフェオレ味) 大容量",
+      "answer_normalized": "スカルプD サプリメント ハイブリッド プロテイン (カフェオレ味) 大容量",
+      "image_url": "./public/assets/products/SPPCL000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SPPCL000A",
+      "categories": [
+        "男性用一覧",
+        "サプリメント一覧"
+      ],
+      "price_jpy": 7900,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SPPCL000A2/SPPCL000A2-0.jpg"
+    },
+    {
+      "id": "SPPRN000A",
+      "product_code": "SPPRN000A",
+      "answer": "スカルプD サプリメント ハイブリッド プロテイン (ヨーグルト味) 600g",
+      "answer_normalized": "スカルプD サプリメント ハイブリッド プロテイン (ヨーグルト味) 600g",
+      "image_url": "./public/assets/products/SPPRN000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SPPRN000A",
+      "categories": [
+        "男性用一覧",
+        "サプリメント一覧"
+      ],
+      "price_jpy": 4200,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SPPRN000A2/SPPRN000A2-0.jpg"
+    },
+    {
+      "id": "SPPRL000A",
+      "product_code": "SPPRL000A",
+      "answer": "スカルプD サプリメント ハイブリッド プロテイン (ヨーグルト味) 大容量",
+      "answer_normalized": "スカルプD サプリメント ハイブリッド プロテイン (ヨーグルト味) 大容量",
+      "image_url": "./public/assets/products/SPPRL000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SPPRL000A",
+      "categories": [
+        "男性用一覧",
+        "サプリメント一覧"
+      ],
+      "price_jpy": 7900,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SPPRL000A2/SPPRL000A2-0.jpg"
+    },
+    {
+      "id": "SPAEH000A",
+      "product_code": "SPAEH000A",
+      "answer": "スカルプD サプリメント 亜鉛EX 60日分",
+      "answer_normalized": "スカルプD サプリメント 亜鉛EX 60日分",
+      "image_url": "./public/assets/products/SPAEH000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SPAEH000A",
+      "categories": [
+        "男性用一覧",
+        "サプリメント一覧"
+      ],
+      "price_jpy": 1200,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SPAEH000A3/SPAEH000A3-0.jpg"
+    },
+    {
+      "id": "SDCSB000A",
+      "product_code": "SDCSB000A",
+      "answer": "スカルプD スカルプシャンプー カラーイン オイリー ［脂性肌用］(ナチュラルブラック)",
+      "answer_normalized": "スカルプD スカルプシャンプー カラーイン オイリー ［脂性肌用］(ナチュラルブラック)",
+      "image_url": "./public/assets/products/SDCSB000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDCSB000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧",
+        "白髪染め・ヘアカラー一覧"
+      ],
+      "price_jpy": 3300,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDCSB000A1/SDCSB000A1-0.jpg"
+    },
+    {
+      "id": "SDCSB00XS",
+      "product_code": "SDCSB00XS",
+      "answer": "スカルプD スカルプシャンプー カラーイン オイリー+ヘアカラーコンディショナーセット (ナチュラルブラック)",
+      "answer_normalized": "スカルプD スカルプシャンプー カラーイン オイリー+ヘアカラーコンディショナーセット (ナチュラルブラック)",
+      "image_url": "./public/assets/products/SDCSB00XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDCSB00XS",
+      "categories": [
+        "白髪染め・ヘアカラー一覧"
+      ],
+      "price_jpy": 5643,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDCSB00XS1/SDCSB00XS1-0.jpg"
+    },
+    {
+      "id": "SDDGS000A",
+      "product_code": "SDDGS000A",
+      "answer": "スカルプD ディグニティ ザ スカルプシャンプー",
+      "answer_normalized": "スカルプD ディグニティ ザ スカルプシャンプー",
+      "image_url": "./public/assets/products/SDDGS000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDDGS000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 11600,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDDGS000A4/SDDGS000A4-0.webp"
+    },
+    {
+      "id": "SDDGP000A",
+      "product_code": "SDDGP000A",
+      "answer": "スカルプD ディグニティ ザ スカルプパックコンディショナー",
+      "answer_normalized": "スカルプD ディグニティ ザ スカルプパックコンディショナー",
+      "image_url": "./public/assets/products/SDDGP000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDDGP000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 11600,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDDGP000A4/SDDGP000A4-0.webp"
+    },
+    {
+      "id": "SDXAG000A",
+      "product_code": "SDXAG000A",
+      "answer": "スカルプＤ ネクストプラス エアー グリース",
+      "answer_normalized": "スカルプＤ ネクストプラス エアー グリース",
+      "image_url": "./public/assets/products/SDXAG000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDXAG000A",
+      "categories": [
+        "スタイリング剤一覧"
+      ],
+      "price_jpy": 1980,
+      "is_new": true,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDXAG000A1/SDXAG000A1-0.webp"
+    },
+    {
+      "id": "SDXPEB00A",
+      "product_code": "SDXPEB00A",
+      "answer": "スカルプＤ ネクストプラス スタイルエレブラシ",
+      "answer_normalized": "スカルプＤ ネクストプラス スタイルエレブラシ",
+      "image_url": "./public/assets/products/SDXPEB00A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDXPEB00A",
+      "categories": [
+        "男性用一覧",
+        "その他ヘアケア商品一覧"
+      ],
+      "price_jpy": 28600,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDXPEB00A1/SDXPEB00A1-0.webp"
+    },
+    {
+      "id": "SDXSBO00A",
+      "product_code": "SDXSBO00A",
+      "answer": "スカルプＤ ネクストプラス スタイルブースター オイル",
+      "answer_normalized": "スカルプＤ ネクストプラス スタイルブースター オイル",
+      "image_url": "./public/assets/products/SDXSBO00A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDXSBO00A",
+      "categories": [
+        "スタイリング剤一覧"
+      ],
+      "price_jpy": 2420,
+      "is_new": true,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDXSBO00A1/SDXSBO00A1-0.webp"
+    },
+    {
+      "id": "SDXRMO00A",
+      "product_code": "SDXRMO00A",
+      "answer": "スカルプＤ ネクストプラス ナノリペア ミルクオイル",
+      "answer_normalized": "スカルプＤ ネクストプラス ナノリペア ミルクオイル",
+      "image_url": "./public/assets/products/SDXRMO00A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDXRMO00A",
+      "categories": [
+        "スタイリング剤一覧"
+      ],
+      "price_jpy": 2750,
+      "is_new": true,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDXRMO00A1/SDXRMO00A1-0.webp"
+    },
+    {
+      "id": "SDSPY000A",
+      "product_code": "SDSPY000A",
+      "answer": "スカルプD ハードスプレー",
+      "answer_normalized": "スカルプD ハードスプレー",
+      "image_url": "./public/assets/products/SDSPY000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDSPY000A",
+      "categories": [
+        "男性用一覧",
+        "スタイリング剤一覧"
+      ],
+      "price_jpy": 1833,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDSPY000A2/SDSPY000A2-0.jpg"
+    },
+    {
+      "id": "SDWXS000A",
+      "product_code": "SDWXS000A",
+      "answer": "スカルプD ハードワックス",
+      "answer_normalized": "スカルプD ハードワックス",
+      "image_url": "./public/assets/products/SDWXS000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDWXS000A",
+      "categories": [
+        "男性用一覧",
+        "スタイリング剤一覧"
+      ],
+      "price_jpy": 2048,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDWXS000A2/SDWXS000A2-0.jpg"
+    },
+    {
+      "id": "SDFKM000A",
+      "product_code": "SDFKM000A",
+      "answer": "スカルプD ファイバーキープミスト",
+      "answer_normalized": "スカルプD ファイバーキープミスト",
+      "image_url": "./public/assets/products/SDFKM000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDFKM000A",
+      "categories": [
+        "男性用一覧",
+        "スタイリング剤一覧"
+      ],
+      "price_jpy": 1650,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDFKM000A1/SDFKM000A1-0.jpg"
+    },
+    {
+      "id": "SDBCS000A",
+      "product_code": "SDBCS000A",
+      "answer": "スカルプD ブラックカバースプレー",
+      "answer_normalized": "スカルプD ブラックカバースプレー",
+      "image_url": "./public/assets/products/SDBCS000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDBCS000A",
+      "categories": [
+        "男性用一覧",
+        "スタイリング剤一覧"
+      ],
+      "price_jpy": 2343,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDBCS000A1/SDBCS000A1-0.jpg"
+    },
+    {
+      "id": "SDPKP000A",
+      "product_code": "SDPKP000A",
+      "answer": "スカルプD プレミアム スカルプパックコンディショナー N",
+      "answer_normalized": "スカルプD プレミアム スカルプパックコンディショナー N",
+      "image_url": "./public/assets/products/SDPKP000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDPKP000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 5500,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDPKP000A2/SDPKP000A2-0.jpg"
+    },
+    {
+      "id": "SDOLP000A",
+      "product_code": "SDOLP000A",
+      "answer": "スカルプD プレミアム 薬用スカルプシャンプー オイリー N [脂性肌用]",
+      "answer_normalized": "スカルプD プレミアム 薬用スカルプシャンプー オイリー N [脂性肌用]",
+      "image_url": "./public/assets/products/SDOLP000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDOLP000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 5500,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDOLP000A3/SDOLP000A3-0.jpg"
+    },
+    {
+      "id": "SDJTP000A",
+      "product_code": "SDJTP000A",
+      "answer": "スカルプD プレミアム 薬用育毛スカルプトニック",
+      "answer_normalized": "スカルプD プレミアム 薬用育毛スカルプトニック",
+      "image_url": "./public/assets/products/SDJTP000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDJTP000A",
+      "categories": [
+        "男性用一覧",
+        "育毛剤・育毛スプレー一覧"
+      ],
+      "price_jpy": 4700,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDJTP000A3/SDJTP000A3-0.jpg"
+    },
+    {
+      "id": "SDMHD000A",
+      "product_code": "SDMHD000A",
+      "answer": "スカルプD ヘアカラーコンディショナー（ディープブラウン）",
+      "answer_normalized": "スカルプD ヘアカラーコンディショナー（ディープブラウン）",
+      "image_url": "./public/assets/products/SDMHD000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDMHD000A",
+      "categories": [
+        "男性用一覧",
+        "白髪染め・ヘアカラー一覧"
+      ],
+      "price_jpy": 2343,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDMHD000A2/SDMHD000A2-0.jpg"
+    },
+    {
+      "id": "SDMHN000A",
+      "product_code": "SDMHN000A",
+      "answer": "スカルプD ヘアカラーコンディショナー（ナチュラルブラック）",
+      "answer_normalized": "スカルプD ヘアカラーコンディショナー（ナチュラルブラック）",
+      "image_url": "./public/assets/products/SDMHN000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDMHN000A",
+      "categories": [
+        "男性用一覧",
+        "白髪染め・ヘアカラー一覧"
+      ],
+      "price_jpy": 2343,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDMHN000A2/SDMHN000A2-0.jpg"
+    },
+    {
+      "id": "BASPN000A",
+      "product_code": "BASPN000A",
+      "answer": "スカルプD ベビー センシティブシャンプー",
+      "answer_normalized": "スカルプD ベビー センシティブシャンプー",
+      "image_url": "./public/assets/products/BASPN000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BASPN000A",
+      "categories": [
+        "男性用一覧",
+        "その他一覧",
+        "女性用一覧",
+        "ベビー商品一覧"
+      ],
+      "price_jpy": 1980,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BASPN000A2/BASPN000A2-0.jpg"
+    },
+    {
+      "id": "BASPN02XS",
+      "product_code": "BASPN02XS",
+      "answer": "スカルプD ベビー センシティブシャンプー・ボディソープセット",
+      "answer_normalized": "スカルプD ベビー センシティブシャンプー・ボディソープセット",
+      "image_url": "./public/assets/products/BASPN02XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BASPN02XS",
+      "categories": [
+        "その他一覧",
+        "ベビー商品一覧"
+      ],
+      "price_jpy": 3960,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BASPN02XS1/BASPN02XS1-0.jpg"
+    },
+    {
+      "id": "BABSN000A",
+      "product_code": "BABSN000A",
+      "answer": "スカルプD ベビー センシティブボディソープ",
+      "answer_normalized": "スカルプD ベビー センシティブボディソープ",
+      "image_url": "./public/assets/products/BABSN000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BABSN000A",
+      "categories": [
+        "男性用一覧",
+        "その他一覧",
+        "女性用一覧",
+        "ベビー商品一覧"
+      ],
+      "price_jpy": 1980,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BABSN000A4/BABSN000A4-0.jpg"
+    },
+    {
+      "id": "BTUVS000A",
+      "product_code": "BTUVS000A",
+      "answer": "スカルプD ボーテ UVスプレー",
+      "answer_normalized": "スカルプD ボーテ UVスプレー",
+      "image_url": "./public/assets/products/BTUVS000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTUVS000A",
+      "categories": [
+        "女性用一覧",
+        "その他ヘアケア商品一覧"
+      ],
+      "price_jpy": 2750,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTUVS000A1/BTUVS000A1-0.jpg"
+    },
+    {
+      "id": "BTUVS00XS",
+      "product_code": "BTUVS00XS",
+      "answer": "スカルプD ボーテ ＵＶスプレー×2本セット",
+      "answer_normalized": "スカルプD ボーテ ＵＶスプレー×2本セット",
+      "image_url": "./public/assets/products/BTUVS00XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTUVS00XS",
+      "categories": [
+        "その他ヘアケア商品一覧"
+      ],
+      "price_jpy": 5500,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTUVS00XS1/BTUVS00XS1-0.jpg"
+    },
+    {
+      "id": "BTSCC000A",
+      "product_code": "BTSCC000A",
+      "answer": "スカルプD ボーテ スカルプクレンズ",
+      "answer_normalized": "スカルプD ボーテ スカルプクレンズ",
+      "image_url": "./public/assets/products/BTSCC000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTSCC000A",
+      "categories": [
+        "女性用一覧",
+        "シャンプー・トリートメント一覧",
+        "その他ヘアケア商品一覧"
+      ],
+      "price_jpy": 2750,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTSCC000A4/BTSCC000A4-0.jpg"
+    },
+    {
+      "id": "BTDB0000A",
+      "product_code": "BTDB0000A",
+      "answer": "スカルプD ボーテ スカルプ電気ブラシ",
+      "answer_normalized": "スカルプD ボーテ スカルプ電気ブラシ",
+      "image_url": "./public/assets/products/BTDB0000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTDB0000A",
+      "categories": [
+        "女性用一覧",
+        "その他ヘアケア商品一覧",
+        "その他一覧"
+      ],
+      "price_jpy": 23300,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTDB0000A1/BTDB0000A1-0.jpg"
+    },
+    {
+      "id": "BTDGS000A",
+      "product_code": "BTDGS000A",
+      "answer": "スカルプD ボーテ ディグニティ ザ スカルプシャンプー",
+      "answer_normalized": "スカルプD ボーテ ディグニティ ザ スカルプシャンプー",
+      "image_url": "./public/assets/products/BTDGS000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTDGS000A",
+      "categories": [
+        "女性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 11600,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTDGS000A2/BTDGS000A2-0.jpg"
+    },
+    {
+      "id": "BTDGP000A",
+      "product_code": "BTDGP000A",
+      "answer": "スカルプD ボーテ ディグニティ ザ スカルプトリートメントパック",
+      "answer_normalized": "スカルプD ボーテ ディグニティ ザ スカルプトリートメントパック",
+      "image_url": "./public/assets/products/BTDGP000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTDGP000A",
+      "categories": [
+        "女性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 11600,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTDGP000A2/BTDGP000A2-0.jpg"
+    },
+    {
+      "id": "BTBH0000A",
+      "product_code": "BTBH0000A",
+      "answer": "スカルプD ボーテ ビューティーヘッドスパ",
+      "answer_normalized": "スカルプD ボーテ ビューティーヘッドスパ",
+      "image_url": "./public/assets/products/BTBH0000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/BTBH0000A",
+      "categories": [
+        "女性用一覧",
+        "その他ヘアケア商品一覧"
+      ],
+      "price_jpy": 15950,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTBH0000A1/BTBH0000A1-0.webp"
+    },
+    {
+      "id": "BTFSP000A",
+      "product_code": "BTFSP000A",
+      "answer": "スカルプＤ ボーテ フワリー スカルプシャンプー",
+      "answer_normalized": "スカルプＤ ボーテ フワリー スカルプシャンプー",
+      "image_url": "./public/assets/products/BTFSP000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTFSP000A",
+      "categories": [
+        "女性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 1986,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTFSP000A1/BTFSP000A1-0.jpg"
+    },
+    {
+      "id": "BTFTSP00A",
+      "product_code": "BTFTSP00A",
+      "answer": "スカルプＤ ボーテ フワリー スカルプシャンプー つめかえ用",
+      "answer_normalized": "スカルプＤ ボーテ フワリー スカルプシャンプー つめかえ用",
+      "image_url": "./public/assets/products/BTFTSP00A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTFTSP00A",
+      "categories": [
+        "女性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 1650,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTFTSP00A1/BTFTSP00A1-0.jpg"
+    },
+    {
+      "id": "BTFTR000A",
+      "product_code": "BTFTR000A",
+      "answer": "スカルプＤ ボーテ フワリー トリートメントパック",
+      "answer_normalized": "スカルプＤ ボーテ フワリー トリートメントパック",
+      "image_url": "./public/assets/products/BTFTR000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTFTR000A",
+      "categories": [
+        "女性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 1986,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTFTR000A1/BTFTR000A1-0.jpg"
+    },
+    {
+      "id": "BTFTTR00A",
+      "product_code": "BTFTTR00A",
+      "answer": "スカルプＤ ボーテ フワリー トリートメントパック つめかえ用",
+      "answer_normalized": "スカルプＤ ボーテ フワリー トリートメントパック つめかえ用",
+      "image_url": "./public/assets/products/BTFTTR00A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTFTTR00A",
+      "categories": [
+        "女性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 1650,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTFTTR00A1/BTFTTR00A1-0.jpg"
+    },
+    {
+      "id": "BTFPPS00A",
+      "product_code": "BTFPPS00A",
+      "answer": "スカルプD ボーテ フワリー ペアパウチ 7個セット",
+      "answer_normalized": "スカルプD ボーテ フワリー ペアパウチ 7個セット",
+      "image_url": "./public/assets/products/BTFPPS00A.webp",
+      "product_url": "https://www.angfa-store.jp/product/BTFPPS00A",
+      "categories": [
+        "女性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 1000,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTFPPS00A1/BTFPPS00A1-0.webp"
+    },
+    {
+      "id": "BTHCB000A",
+      "product_code": "BTHCB000A",
+      "answer": "スカルプD ボーテ ヘアカラートリートメント(ダークブラウン)",
+      "answer_normalized": "スカルプD ボーテ ヘアカラートリートメント(ダークブラウン)",
+      "image_url": "./public/assets/products/BTHCB000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTHCB000A",
+      "categories": [
+        "女性用一覧",
+        "白髪染め・ヘアカラー一覧"
+      ],
+      "price_jpy": 2852,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTHCB000A3/BTHCB000A3-0.jpg"
+    },
+    {
+      "id": "BTHCB06XS",
+      "product_code": "BTHCB06XS",
+      "answer": "スカルプD ボーテ ヘアカラートリートメント(ダークブラウン×2個セット)",
+      "answer_normalized": "スカルプD ボーテ ヘアカラートリートメント(ダークブラウン×2個セット)",
+      "image_url": "./public/assets/products/BTHCB06XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTHCB06XS",
+      "categories": [
+        "白髪染め・ヘアカラー一覧"
+      ],
+      "price_jpy": 5704,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTHCB06XS2/BTHCB06XS2-0.jpg"
+    },
+    {
+      "id": "BTCNB000A",
+      "product_code": "BTCNB000A",
+      "answer": "スカルプD ボーテ ヘアカラートリートメント（ナチュラルブラウン）",
+      "answer_normalized": "スカルプD ボーテ ヘアカラートリートメント（ナチュラルブラウン）",
+      "image_url": "./public/assets/products/BTCNB000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTCNB000A",
+      "categories": [
+        "女性用一覧",
+        "白髪染め・ヘアカラー一覧"
+      ],
+      "price_jpy": 2852,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTCNB000A1/BTCNB000A1-0.jpg"
+    },
+    {
+      "id": "BTCNB06XS",
+      "product_code": "BTCNB06XS",
+      "answer": "スカルプD ボーテ ヘアカラートリートメント(ナチュラルブラウン×2個セット)",
+      "answer_normalized": "スカルプD ボーテ ヘアカラートリートメント(ナチュラルブラウン×2個セット)",
+      "image_url": "./public/assets/products/BTCNB06XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTCNB06XS",
+      "categories": [
+        "白髪染め・ヘアカラー一覧"
+      ],
+      "price_jpy": 5704,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTCNB06XS1/BTCNB06XS1-0.jpg"
+    },
+    {
+      "id": "BTHCN000A",
+      "product_code": "BTHCN000A",
+      "answer": "スカルプD ボーテ ヘアカラートリートメント（ナチュラルブラック）",
+      "answer_normalized": "スカルプD ボーテ ヘアカラートリートメント（ナチュラルブラック）",
+      "image_url": "./public/assets/products/BTHCN000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTHCN000A",
+      "categories": [
+        "女性用一覧",
+        "白髪染め・ヘアカラー一覧"
+      ],
+      "price_jpy": 2852,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTHCN000A3/BTHCN000A3-0.jpg"
+    },
+    {
+      "id": "BTHCN06XS",
+      "product_code": "BTHCN06XS",
+      "answer": "スカルプD ボーテ ヘアカラートリートメント(ナチュラルブラック×2個セット)",
+      "answer_normalized": "スカルプD ボーテ ヘアカラートリートメント(ナチュラルブラック×2個セット)",
+      "image_url": "./public/assets/products/BTHCN06XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTHCN06XS",
+      "categories": [
+        "白髪染め・ヘアカラー一覧"
+      ],
+      "price_jpy": 5704,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTHCN06XS2/BTHCN06XS2-0.jpg"
+    },
+    {
+      "id": "BTCLB000A",
+      "product_code": "BTCLB000A",
+      "answer": "スカルプD ボーテ ヘアカラートリートメント（ライトブラウン）",
+      "answer_normalized": "スカルプD ボーテ ヘアカラートリートメント（ライトブラウン）",
+      "image_url": "./public/assets/products/BTCLB000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTCLB000A",
+      "categories": [
+        "女性用一覧",
+        "白髪染め・ヘアカラー一覧"
+      ],
+      "price_jpy": 2852,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTCLB000A1/BTCLB000A1-0.jpg"
+    },
+    {
+      "id": "BTCLB06XS",
+      "product_code": "BTCLB06XS",
+      "answer": "スカルプD ボーテ ヘアカラートリートメント(ライトブラウン×2個セット)",
+      "answer_normalized": "スカルプD ボーテ ヘアカラートリートメント(ライトブラウン×2個セット)",
+      "image_url": "./public/assets/products/BTCLB06XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTCLB06XS",
+      "categories": [
+        "白髪染め・ヘアカラー一覧"
+      ],
+      "price_jpy": 5704,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTCLB06XS1/BTCLB06XS1-0.jpg"
+    },
+    {
+      "id": "BTTRV000A",
+      "product_code": "BTTRV000A",
+      "answer": "スカルプD ボーテ ボリュームアップミスト",
+      "answer_normalized": "スカルプD ボーテ ボリュームアップミスト",
+      "image_url": "./public/assets/products/BTTRV000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTTRV000A",
+      "categories": [
+        "女性用一覧",
+        "その他ヘアケア商品一覧"
+      ],
+      "price_jpy": 2058,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTTRV000A4/BTTRV000A4-0.jpg"
+    },
+    {
+      "id": "BTBPP00XS",
+      "product_code": "BTBPP00XS",
+      "answer": "スカルプD ボーテ ボリュームペアパウチ 4個セット",
+      "answer_normalized": "スカルプD ボーテ ボリュームペアパウチ 4個セット",
+      "image_url": "./public/assets/products/BTBPP00XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/BTBPP00XS",
+      "categories": [
+        "女性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 1000,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTBPP00XS1/BTBPP00XS1-0.webp"
+    },
+    {
+      "id": "BTMSN000A",
+      "product_code": "BTMSN000A",
+      "answer": "スカルプD ボーテ メディカルエストロジー スカルプセラム",
+      "answer_normalized": "スカルプD ボーテ メディカルエストロジー スカルプセラム",
+      "image_url": "./public/assets/products/BTMSN000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/BTMSN000A",
+      "categories": [
+        "女性用一覧",
+        "育毛剤・育毛スプレー一覧"
+      ],
+      "price_jpy": 7980,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTMSN000A1/BTMSN000A1-0.webp?c"
+    },
+    {
+      "id": "BTTRP000A",
+      "product_code": "BTTRP000A",
+      "answer": "スカルプD ボーテ モイスチャーヘアミルク",
+      "answer_normalized": "スカルプD ボーテ モイスチャーヘアミルク",
+      "image_url": "./public/assets/products/BTTRP000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTTRP000A",
+      "categories": [
+        "女性用一覧",
+        "その他ヘアケア商品一覧"
+      ],
+      "price_jpy": 2516,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTTRP000A2/BTTRP000A2-0.jpg"
+    },
+    {
+      "id": "BTMPW000A",
+      "product_code": "BTMPW000A",
+      "answer": "スカルプD ボーテ モイストペアパウチ 4個セット",
+      "answer_normalized": "スカルプD ボーテ モイストペアパウチ 4個セット",
+      "image_url": "./public/assets/products/BTMPW000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/BTMPW000A",
+      "categories": [
+        "女性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 1000,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTMPW000A1/BTMPW000A1-0.webp"
+    },
+    {
+      "id": "BTBSR000A",
+      "product_code": "BTBSR000A",
+      "answer": "スカルプD ボーテ レッドベール ボディソープ",
+      "answer_normalized": "スカルプD ボーテ レッドベール ボディソープ",
+      "image_url": "./public/assets/products/BTBSR000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTBSR000A",
+      "categories": [
+        "女性用一覧",
+        "ボディーケア一覧"
+      ],
+      "price_jpy": 1815,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTBSR000A1/BTBSR000A1-0.jpg"
+    },
+    {
+      "id": "BTTHB000A",
+      "product_code": "BTTHB000A",
+      "answer": "スカルプD ボーテ 薬用 頭皮保湿美容液",
+      "answer_normalized": "スカルプD ボーテ 薬用 頭皮保湿美容液",
+      "image_url": "./public/assets/products/BTTHB000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTTHB000A",
+      "categories": [
+        "女性用一覧",
+        "その他ヘアケア商品一覧"
+      ],
+      "price_jpy": 4180,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTTHB000A2/BTTHB000A2-0.jpg"
+    },
+    {
+      "id": "BTTHB03XS",
+      "product_code": "BTTHB03XS",
+      "answer": "スカルプD ボーテ 薬用 頭皮保湿美容液 2本セット",
+      "answer_normalized": "スカルプD ボーテ 薬用 頭皮保湿美容液 2本セット",
+      "image_url": "./public/assets/products/BTTHB03XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTTHB03XS",
+      "categories": [
+        "その他ヘアケア商品一覧"
+      ],
+      "price_jpy": 8360,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTTHB03XS2/BTTHB03XS2-0.jpg"
+    },
+    {
+      "id": "BTSPN000A",
+      "product_code": "BTSPN000A",
+      "answer": "スカルプD ボーテ 薬用スカルプシャンプー ボリューム",
+      "answer_normalized": "スカルプD ボーテ 薬用スカルプシャンプー ボリューム",
+      "image_url": "./public/assets/products/BTSPN000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTSPN000A",
+      "categories": [
+        "女性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 4500,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTSPN000A4/BTSPN000A4-0.jpg"
+    },
+    {
+      "id": "BTTSV000A",
+      "product_code": "BTTSV000A",
+      "answer": "スカルプD ボーテ 薬用スカルプシャンプー ボリューム つめかえ用",
+      "answer_normalized": "スカルプD ボーテ 薬用スカルプシャンプー ボリューム つめかえ用",
+      "image_url": "./public/assets/products/BTTSV000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTTSV000A",
+      "categories": [
+        "女性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 3680,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTTSV000A1/BTTSV000A1-0.jpg"
+    },
+    {
+      "id": "BTSPR000A",
+      "product_code": "BTSPR000A",
+      "answer": "スカルプD ボーテ 薬用スカルプシャンプー モイスト",
+      "answer_normalized": "スカルプD ボーテ 薬用スカルプシャンプー モイスト",
+      "image_url": "./public/assets/products/BTSPR000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/BTSPR000A",
+      "categories": [
+        "女性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 4500,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTSPR000A4/BTSPR000A4-0.webp"
+    },
+    {
+      "id": "BTTSM000A",
+      "product_code": "BTTSM000A",
+      "answer": "スカルプD ボーテ 薬用スカルプシャンプー モイスト つめかえ用",
+      "answer_normalized": "スカルプD ボーテ 薬用スカルプシャンプー モイスト つめかえ用",
+      "image_url": "./public/assets/products/BTTSM000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTTSM000A",
+      "categories": [
+        "女性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 3680,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTTSM000A1/BTTSM000A1-0.jpg"
+    },
+    {
+      "id": "BTHGS000A",
+      "product_code": "BTHGS000A",
+      "answer": "スカルプD ボーテ 薬用スカルプスパエッセンス​",
+      "answer_normalized": "スカルプD ボーテ 薬用スカルプスパエッセンス​",
+      "image_url": "./public/assets/products/BTHGS000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTHGS000A",
+      "categories": [
+        "女性用一覧",
+        "育毛剤・育毛スプレー一覧"
+      ],
+      "price_jpy": 3300,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTHGS000A4/BTHGS000A4-0.jpg"
+    },
+    {
+      "id": "BTHGN000A",
+      "product_code": "BTHGN000A",
+      "answer": "スカルプD ボーテ 薬用スカルプセラム",
+      "answer_normalized": "スカルプD ボーテ 薬用スカルプセラム",
+      "image_url": "./public/assets/products/BTHGN000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTHGN000A",
+      "categories": [
+        "女性用一覧",
+        "育毛剤・育毛スプレー一覧"
+      ],
+      "price_jpy": 4400,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTHGN000A4/BTHGN000A4-0.jpg"
+    },
+    {
+      "id": "BTTRN000A",
+      "product_code": "BTTRN000A",
+      "answer": "スカルプD ボーテ 薬用トリートメントパック ボリューム",
+      "answer_normalized": "スカルプD ボーテ 薬用トリートメントパック ボリューム",
+      "image_url": "./public/assets/products/BTTRN000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTTRN000A",
+      "categories": [
+        "女性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 4500,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTTRN000A4/BTTRN000A4-0.jpg"
+    },
+    {
+      "id": "BTTTV000A",
+      "product_code": "BTTTV000A",
+      "answer": "スカルプD ボーテ 薬用トリートメントパック ボリューム つめかえ用",
+      "answer_normalized": "スカルプD ボーテ 薬用トリートメントパック ボリューム つめかえ用",
+      "image_url": "./public/assets/products/BTTTV000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTTTV000A",
+      "categories": [
+        "女性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 3680,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTTTV000A1/BTTTV000A1-0.jpg"
+    },
+    {
+      "id": "BTTRR000A",
+      "product_code": "BTTRR000A",
+      "answer": "スカルプD ボーテ 薬用トリートメントパック モイスト",
+      "answer_normalized": "スカルプD ボーテ 薬用トリートメントパック モイスト",
+      "image_url": "./public/assets/products/BTTRR000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/BTTRR000A",
+      "categories": [
+        "女性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 4500,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTTRR000A4/BTTRR000A4-0.webp"
+    },
+    {
+      "id": "BTTTM000A",
+      "product_code": "BTTTM000A",
+      "answer": "スカルプD ボーテ 薬用トリートメントパック モイスト つめかえ用",
+      "answer_normalized": "スカルプD ボーテ 薬用トリートメントパック モイスト つめかえ用",
+      "image_url": "./public/assets/products/BTTTM000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/BTTTM000A",
+      "categories": [
+        "女性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 3680,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTTTM000A1/BTTTM000A1-0.webp"
+    },
+    {
+      "id": "SDVUF000A",
+      "product_code": "SDVUF000A",
+      "answer": "スカルプD ボリュームアップファイバー",
+      "answer_normalized": "スカルプD ボリュームアップファイバー",
+      "image_url": "./public/assets/products/SDVUF000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDVUF000A",
+      "categories": [
+        "男性用一覧",
+        "スタイリング剤一覧"
+      ],
+      "price_jpy": 3410,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDVUF000A1/SDVUF000A1-0.jpg"
+    },
+    {
+      "id": "SDVUF00XS",
+      "product_code": "SDVUF00XS",
+      "answer": "スカルプD ボリュームアップファイバー&ファイバーキープミストセット",
+      "answer_normalized": "スカルプD ボリュームアップファイバー&ファイバーキープミストセット",
+      "image_url": "./public/assets/products/SDVUF00XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDVUF00XS",
+      "categories": [
+        "スタイリング剤一覧"
+      ],
+      "price_jpy": 5060,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDVUF00XS1/SDVUF00XS1-0.jpg"
+    },
+    {
+      "id": "SDHGM000A",
+      "product_code": "SDHGM000A",
+      "answer": "スカルプD ボリュームキープミスト",
+      "answer_normalized": "スカルプD ボリュームキープミスト",
+      "image_url": "./public/assets/products/SDHGM000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDHGM000A",
+      "categories": [
+        "男性用一覧",
+        "スタイリング剤一覧"
+      ],
+      "price_jpy": 2048,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDHGM000A2/SDHGM000A2-0.jpg"
+    },
+    {
+      "id": "BTPBB000A",
+      "product_code": "BTPBB000A",
+      "answer": "スカルプD マスカラ ボリュームアップ ディープブラック",
+      "answer_normalized": "スカルプD マスカラ ボリュームアップ ディープブラック",
+      "image_url": "./public/assets/products/BTPBB000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTPBB000A",
+      "categories": [
+        "女性用一覧",
+        "まつげ美容液一覧"
+      ],
+      "price_jpy": 1980,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTPBB000A2/BTPBB000A2-0.jpg"
+    },
+    {
+      "id": "BTPFB000A",
+      "product_code": "BTPFB000A",
+      "answer": "スカルプD マスカラ ロングロング ナチュラルブラック",
+      "answer_normalized": "スカルプD マスカラ ロングロング ナチュラルブラック",
+      "image_url": "./public/assets/products/BTPFB000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/BTPFB000A",
+      "categories": [
+        "女性用一覧",
+        "まつげ美容液一覧"
+      ],
+      "price_jpy": 1980,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTPFB000A4/BTPFB000A4-0.webp"
+    },
+    {
+      "id": "BTPFW000A",
+      "product_code": "BTPFW000A",
+      "answer": "スカルプD マスカラ ロングロング モカブラウン",
+      "answer_normalized": "スカルプD マスカラ ロングロング モカブラウン",
+      "image_url": "./public/assets/products/BTPFW000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTPFW000A",
+      "categories": [
+        "女性用一覧",
+        "まつげ美容液一覧"
+      ],
+      "price_jpy": 1980,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTPFW000A4/BTPFW000A4-0.jpg"
+    },
+    {
+      "id": "SDMXN000A",
+      "product_code": "SDMXN000A",
+      "answer": "スカルプD メディカルミノキ５",
+      "answer_normalized": "スカルプD メディカルミノキ５",
+      "image_url": "./public/assets/products/SDMXN000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDMXN000A",
+      "categories": [
+        "男性用一覧",
+        "発毛剤（第1類医薬品）一覧"
+      ],
+      "price_jpy": 4980,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDMXN000A2/SDMXN000A2-0.jpg"
+    },
+    {
+      "id": "SDMXP000A",
+      "product_code": "SDMXP000A",
+      "answer": "スカルプＤ メディカルミノキ５ プレミアム",
+      "answer_normalized": "スカルプＤ メディカルミノキ５ プレミアム",
+      "image_url": "./public/assets/products/SDMXP000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDMXP000A",
+      "categories": [
+        "男性用一覧",
+        "発毛剤（第1類医薬品）一覧"
+      ],
+      "price_jpy": 7800,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDMXP000A1/SDMXP000A1-0.jpg"
+    },
+    {
+      "id": "SDMXP00XS",
+      "product_code": "SDMXP00XS",
+      "answer": "スカルプＤ メディカルミノキ５ プレミアム 3本セット",
+      "answer_normalized": "スカルプＤ メディカルミノキ５ プレミアム 3本セット",
+      "image_url": "./public/assets/products/SDMXP00XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDMXP00XS",
+      "categories": [
+        "発毛剤（第1類医薬品）一覧"
+      ],
+      "price_jpy": 23400,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDMXP00XS1/SDMXP00XS1-0.jpg"
+    },
+    {
+      "id": "SDMXP01XS",
+      "product_code": "SDMXP01XS",
+      "answer": "スカルプＤ メディカルミノキ５ プレミアム 4本セット",
+      "answer_normalized": "スカルプＤ メディカルミノキ５ プレミアム 4本セット",
+      "image_url": "./public/assets/products/SDMXP01XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDMXP01XS",
+      "categories": [
+        "発毛剤（第1類医薬品）一覧"
+      ],
+      "price_jpy": 31200,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDMXP01XS1/SDMXP01XS1-0.webp"
+    },
+    {
+      "id": "SDMXP02XS",
+      "product_code": "SDMXP02XS",
+      "answer": "スカルプＤ メディカルミノキ５ プレミアム 4本セット（ミノキ補償制度付帯セット）​",
+      "answer_normalized": "スカルプＤ メディカルミノキ５ プレミアム 4本セット（ミノキ補償制度付帯セット）​",
+      "image_url": "./public/assets/products/SDMXP02XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDMXP02XS",
+      "categories": [
+        "発毛剤（第1類医薬品）一覧"
+      ],
+      "price_jpy": 31200,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDMXP02XS1/SDMXP02XS1-0.jpg"
+    },
+    {
+      "id": "SDMXN00XS",
+      "product_code": "SDMXN00XS",
+      "answer": "スカルプD メディカルミノキ５×3本セット",
+      "answer_normalized": "スカルプD メディカルミノキ５×3本セット",
+      "image_url": "./public/assets/products/SDMXN00XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDMXN00XS",
+      "categories": [
+        "発毛剤（第1類医薬品）一覧"
+      ],
+      "price_jpy": 14940,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDMXN00XS2/SDMXN00XS2-0.jpg"
+    },
+    {
+      "id": "SDMXN01XS",
+      "product_code": "SDMXN01XS",
+      "answer": "スカルプD メディカルミノキ５×4本セット",
+      "answer_normalized": "スカルプD メディカルミノキ５×4本セット",
+      "image_url": "./public/assets/products/SDMXN01XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDMXN01XS",
+      "categories": [
+        "発毛剤（第1類医薬品）一覧"
+      ],
+      "price_jpy": 19920,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDMXN01XS2/SDMXN01XS2-0.webp"
+    },
+    {
+      "id": "SDMJE000A",
+      "product_code": "SDMJE000A",
+      "answer": "スカルプD モーニング 炭酸ジェットスカルプシャンプー",
+      "answer_normalized": "スカルプD モーニング 炭酸ジェットスカルプシャンプー",
+      "image_url": "./public/assets/products/SDMJE000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDMJE000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 2546,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDMJE000A1/SDMJE000A1-0.jpg"
+    },
+    {
+      "id": "SDRCN000A",
+      "product_code": "SDRCN000A",
+      "answer": "スカルプD リムーバークリーム",
+      "answer_normalized": "スカルプD リムーバークリーム",
+      "image_url": "./public/assets/products/SDRCN000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDRCN000A",
+      "categories": [
+        "男性用一覧",
+        "ボディケア一覧"
+      ],
+      "price_jpy": 2860,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDRCN000A1/SDRCN000A1-0.jpg"
+    },
+    {
+      "id": "SDFKL000A",
+      "product_code": "SDFKL000A",
+      "answer": "スカルプD 薬用FKケア ローション N",
+      "answer_normalized": "スカルプD 薬用FKケア ローション N",
+      "image_url": "./public/assets/products/SDFKL000A.png",
+      "product_url": "https://www.angfa-store.jp/product/SDFKL000A",
+      "categories": [
+        "男性用一覧",
+        "その他ヘアケア商品一覧"
+      ],
+      "price_jpy": 2058,
+      "is_new": false,
+      "source_image_url": "https://as-prd-bucket.s3.ap-northeast-1.amazonaws.com/sku-images/SDFKL000A2/SDFKL000A2-0.png"
+    },
+    {
+      "id": "SDOLY000A",
+      "product_code": "SDOLY000A",
+      "answer": "スカルプD 薬用スカルプシャンプー オイリー ［脂性肌用］",
+      "answer_normalized": "スカルプD 薬用スカルプシャンプー オイリー ［脂性肌用］",
+      "image_url": "./public/assets/products/SDOLY000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDOLY000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 4500,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDOLY000A5/SDOLY000A5-mybest.webp"
+    },
+    {
+      "id": "SDOLV000A",
+      "product_code": "SDOLV000A",
+      "answer": "スカルプD 薬用スカルプシャンプー オイリー ［脂性肌用］ つけかえ用",
+      "answer_normalized": "スカルプD 薬用スカルプシャンプー オイリー ［脂性肌用］ つけかえ用",
+      "image_url": "./public/assets/products/SDOLV000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDOLV000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 4300,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDOLV000A1/SDOLV000A1-mybest.webp"
+    },
+    {
+      "id": "SDMHD02XS",
+      "product_code": "SDMHD02XS",
+      "answer": "スカルプD 薬用スカルプシャンプー オイリー ［脂性肌用］＆スカルプD ヘアカラーコンディショナー（ディープブラウン）",
+      "answer_normalized": "スカルプD 薬用スカルプシャンプー オイリー ［脂性肌用］＆スカルプD ヘアカラーコンディショナー（ディープブラウン）",
+      "image_url": "./public/assets/products/SDMHD02XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDMHD02XS",
+      "categories": [
+        "白髪染め・ヘアカラー一覧"
+      ],
+      "price_jpy": 6643,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDMHD02XS1/SDMHD02XS1-0.webp"
+    },
+    {
+      "id": "SDMHN02XS",
+      "product_code": "SDMHN02XS",
+      "answer": "スカルプD 薬用スカルプシャンプー オイリー ［脂性肌用］＆スカルプD ヘアカラーコンディショナー（ナチュラルブラック）",
+      "answer_normalized": "スカルプD 薬用スカルプシャンプー オイリー ［脂性肌用］＆スカルプD ヘアカラーコンディショナー（ナチュラルブラック）",
+      "image_url": "./public/assets/products/SDMHN02XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDMHN02XS",
+      "categories": [
+        "白髪染め・ヘアカラー一覧"
+      ],
+      "price_jpy": 6643,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDMHN02XS1/SDMHN02XS1-0.webp"
+    },
+    {
+      "id": "SDSTR000A",
+      "product_code": "SDSTR000A",
+      "answer": "スカルプD 薬用スカルプシャンプー ストロングオイリー [超脂性肌用]",
+      "answer_normalized": "スカルプD 薬用スカルプシャンプー ストロングオイリー [超脂性肌用]",
+      "image_url": "./public/assets/products/SDSTR000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDSTR000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 4500,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDSTR000A5/SDSTR000A5-0.webp"
+    },
+    {
+      "id": "SDSTV000A",
+      "product_code": "SDSTV000A",
+      "answer": "スカルプD 薬用スカルプシャンプー ストロングオイリー [超脂性肌用] つけかえ用",
+      "answer_normalized": "スカルプD 薬用スカルプシャンプー ストロングオイリー [超脂性肌用] つけかえ用",
+      "image_url": "./public/assets/products/SDSTV000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDSTV000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 4300,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDSTV000A1/SDSTV000A1-0.jpg"
+    },
+    {
+      "id": "SDMHN04XS",
+      "product_code": "SDMHN04XS",
+      "answer": "スカルプD 薬用スカルプシャンプー ストロングオイリー ［超脂性肌用］＆スカルプD ヘアカラーコンディショナー（ナチュラルブラック）",
+      "answer_normalized": "スカルプD 薬用スカルプシャンプー ストロングオイリー ［超脂性肌用］＆スカルプD ヘアカラーコンディショナー（ナチュラルブラック）",
+      "image_url": "./public/assets/products/SDMHN04XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDMHN04XS",
+      "categories": [
+        "白髪染め・ヘアカラー一覧"
+      ],
+      "price_jpy": 6643,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDMHN04XS1/SDMHN04XS1-0.webp"
+    },
+    {
+      "id": "SDMHD04XS",
+      "product_code": "SDMHD04XS",
+      "answer": "スカルプD 薬用スカルプシャンプー ストロングオイリー［超脂性肌用＆スカルプD ヘアカラーコンディショナー（ディープブラウン）",
+      "answer_normalized": "スカルプD 薬用スカルプシャンプー ストロングオイリー［超脂性肌用＆スカルプD ヘアカラーコンディショナー（ディープブラウン）",
+      "image_url": "./public/assets/products/SDMHD04XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDMHD04XS",
+      "categories": [
+        "白髪染め・ヘアカラー一覧"
+      ],
+      "price_jpy": 6643,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDMHD04XS1/SDMHD04XS1-0.webp"
+    },
+    {
+      "id": "BTSDN000A",
+      "product_code": "BTSDN000A",
+      "answer": "スカルプD 薬用スカルプシャンプー ダンドラフオイリー(脂性肌用)[医薬部外品]",
+      "answer_normalized": "スカルプD 薬用スカルプシャンプー ダンドラフオイリー(脂性肌用)[医薬部外品]",
+      "image_url": "./public/assets/products/BTSDN000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/BTSDN000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 5500,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTSDN000A3/BTSDN000A3-0.jpg"
+    },
+    {
+      "id": "SDDDT000A",
+      "product_code": "SDDDT000A",
+      "answer": "スカルプD 薬用スカルプシャンプー デオドラントオイリー (脂性肌用)",
+      "answer_normalized": "スカルプD 薬用スカルプシャンプー デオドラントオイリー (脂性肌用)",
+      "image_url": "./public/assets/products/SDDDT000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDDDT000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 5500,
+      "is_new": true,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDDDT000A1/SDDDT000A1-0.webp"
+    },
+    {
+      "id": "SDDDV000A",
+      "product_code": "SDDDV000A",
+      "answer": "スカルプＤ 薬用スカルプシャンプー デオドラントオイリー ［脂性肌用］ つけかえ用",
+      "answer_normalized": "スカルプＤ 薬用スカルプシャンプー デオドラントオイリー ［脂性肌用］ つけかえ用",
+      "image_url": "./public/assets/products/SDDDV000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDDDV000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 5300,
+      "is_new": true,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDDDV000A1/SDDDV000A1-0.webp"
+    },
+    {
+      "id": "SDDRY000A",
+      "product_code": "SDDRY000A",
+      "answer": "スカルプD 薬用スカルプシャンプー ドライ ［乾燥肌用］",
+      "answer_normalized": "スカルプD 薬用スカルプシャンプー ドライ ［乾燥肌用］",
+      "image_url": "./public/assets/products/SDDRY000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDDRY000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 4500,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDDRY000A4/SDDRY000A4-0.webp"
+    },
+    {
+      "id": "SDDRV000A",
+      "product_code": "SDDRV000A",
+      "answer": "スカルプD 薬用スカルプシャンプー ドライ ［乾燥肌用］ つけかえ用",
+      "answer_normalized": "スカルプD 薬用スカルプシャンプー ドライ ［乾燥肌用］ つけかえ用",
+      "image_url": "./public/assets/products/SDDRV000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDDRV000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 4300,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDDRV000A1/SDDRV000A1-0.jpg"
+    },
+    {
+      "id": "SDMHN03XS",
+      "product_code": "SDMHN03XS",
+      "answer": "スカルプD 薬用スカルプシャンプー ドライ ［乾燥肌用］＆スカルプD ヘアカラーコンディショナー（ナチュラルブラック）",
+      "answer_normalized": "スカルプD 薬用スカルプシャンプー ドライ ［乾燥肌用］＆スカルプD ヘアカラーコンディショナー（ナチュラルブラック）",
+      "image_url": "./public/assets/products/SDMHN03XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDMHN03XS",
+      "categories": [
+        "白髪染め・ヘアカラー一覧"
+      ],
+      "price_jpy": 6643,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDMHN03XS1/SDMHN03XS1-0.webp"
+    },
+    {
+      "id": "SDMHD03XS",
+      "product_code": "SDMHD03XS",
+      "answer": "スカルプD 薬用スカルプシャンプー ドライ ［乾燥肌用＆スカルプD ヘアカラーコンディショナー（ディープブラウン）",
+      "answer_normalized": "スカルプD 薬用スカルプシャンプー ドライ ［乾燥肌用＆スカルプD ヘアカラーコンディショナー（ディープブラウン）",
+      "image_url": "./public/assets/products/SDMHD03XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDMHD03XS",
+      "categories": [
+        "白髪染め・ヘアカラー一覧"
+      ],
+      "price_jpy": 6643,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDMHD03XS1/SDMHD03XS1-0.webp"
+    },
+    {
+      "id": "SDPKN000A",
+      "product_code": "SDPKN000A",
+      "answer": "スカルプD 薬用スカルプボリュームパックコンディショナー",
+      "answer_normalized": "スカルプD 薬用スカルプボリュームパックコンディショナー",
+      "image_url": "./public/assets/products/SDPKN000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/SDPKN000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 4500,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDPKN000A5/SDPKN000A5-0.webp"
+    },
+    {
+      "id": "SDPKV000A",
+      "product_code": "SDPKV000A",
+      "answer": "スカルプD 薬用スカルプボリュームパックコンディショナー つけかえ用",
+      "answer_normalized": "スカルプD 薬用スカルプボリュームパックコンディショナー つけかえ用",
+      "image_url": "./public/assets/products/SDPKV000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDPKV000A",
+      "categories": [
+        "男性用一覧",
+        "シャンプー・トリートメント一覧"
+      ],
+      "price_jpy": 4300,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDPKV000A1/SDPKV000A1-0.jpg"
+    },
+    {
+      "id": "SDJTN000A",
+      "product_code": "SDJTN000A",
+      "answer": "スカルプＤ 薬用育毛スカルプトニック",
+      "answer_normalized": "スカルプＤ 薬用育毛スカルプトニック",
+      "image_url": "./public/assets/products/SDJTN000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDJTN000A",
+      "categories": [
+        "男性用一覧",
+        "育毛剤・育毛スプレー一覧"
+      ],
+      "price_jpy": 3800,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDJTN000A6/SDJTN000A6-0.jpg"
+    },
+    {
+      "id": "SDJTN01XS",
+      "product_code": "SDJTN01XS",
+      "answer": "スカルプＤ 薬用育毛スカルプトニック3本セット",
+      "answer_normalized": "スカルプＤ 薬用育毛スカルプトニック3本セット",
+      "image_url": "./public/assets/products/SDJTN01XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/SDJTN01XS",
+      "categories": [
+        "育毛剤・育毛スプレー一覧"
+      ],
+      "price_jpy": 11400,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/SDJTN01XS2/SDJTN01XS2-0.jpg"
+    },
+    {
+      "id": "DMAOC000A",
+      "product_code": "DMAOC000A",
+      "answer": "ディズム AZオイルコントロールクリーム",
+      "answer_normalized": "ディズム AZオイルコントロールクリーム",
+      "image_url": "./public/assets/products/DMAOC000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMAOC000A",
+      "categories": [
+        "男性用一覧",
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 2750,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMAOC000A1/DMAOC000A1-0.webp"
+    },
+    {
+      "id": "DMEEM000A",
+      "product_code": "DMEEM000A",
+      "answer": "ディズム EMS EER メディスキンケアデバイス",
+      "answer_normalized": "ディズム EMS EER メディスキンケアデバイス",
+      "image_url": "./public/assets/products/DMEEM000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMEEM000A",
+      "categories": [
+        "男性用一覧",
+        "UV・スキンケア一覧",
+        "女性用一覧"
+      ],
+      "price_jpy": 35200,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMEEM000A1/DMEEM000A1-0.webp?20251105"
+    },
+    {
+      "id": "DMEEM06XS",
+      "product_code": "DMEEM06XS",
+      "answer": "ディズム EMS EER メディスキンケアデバイス＋エレキブースト＆リフトセラム(エレキブースト&リフトパック×3枚付き)",
+      "answer_normalized": "ディズム EMS EER メディスキンケアデバイス＋エレキブースト＆リフトセラム(エレキブースト&リフトパック×3枚付き)",
+      "image_url": "./public/assets/products/DMEEM06XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMEEM06XS",
+      "categories": [
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 39050,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMEEM06XS1/DMEEM06XS1-0.webp"
+    },
+    {
+      "id": "DMPLB000A",
+      "product_code": "DMPLB000A",
+      "answer": "ディズム ＥＭＳ ポアディープクリアアンドリフト ブラシ",
+      "answer_normalized": "ディズム ＥＭＳ ポアディープクリアアンドリフト ブラシ",
+      "image_url": "./public/assets/products/DMPLB000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMPLB000A",
+      "categories": [
+        "男性用一覧",
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 29700,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMPLB000A1/DMPLB000A1-0.webp"
+    },
+    {
+      "id": "DMGPM000A",
+      "product_code": "DMGPM000A",
+      "answer": "ディズム GGポアケアフォームマスク",
+      "answer_normalized": "ディズム GGポアケアフォームマスク",
+      "image_url": "./public/assets/products/DMGPM000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMGPM000A",
+      "categories": [
+        "男性用一覧",
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 2750,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMGPM000A1/DMGPM000A1-0.webp"
+    },
+    {
+      "id": "DMHDC000A",
+      "product_code": "DMHDC000A",
+      "answer": "ディズム HQダークスポットクリアクリーム",
+      "answer_normalized": "ディズム HQダークスポットクリアクリーム",
+      "image_url": "./public/assets/products/DMHDC000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMHDC000A",
+      "categories": [
+        "男性用一覧",
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 2475,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMHDC000A1/DMHDC000A1-0.webp"
+    },
+    {
+      "id": "DMRWC000A",
+      "product_code": "DMRWC000A",
+      "answer": "ディズム RETIリンクアップクリーム",
+      "answer_normalized": "ディズム RETIリンクアップクリーム",
+      "image_url": "./public/assets/products/DMRWC000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMRWC000A",
+      "categories": [
+        "男性用一覧",
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 3410,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMRWC000A1/DMRWC000A1-0.webp"
+    },
+    {
+      "id": "DMELS000A",
+      "product_code": "DMELS000A",
+      "answer": "ディズム エレキブースト&リフトセラム",
+      "answer_normalized": "ディズム エレキブースト&リフトセラム",
+      "image_url": "./public/assets/products/DMELS000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMELS000A",
+      "categories": [
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 3850,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMELS000A1/DMELS000A1-0.webp"
+    },
+    {
+      "id": "DMELS0BXS",
+      "product_code": "DMELS0BXS",
+      "answer": "ディズム エレキブースト＆リフトセラム＋エレキブースト＆リフトパック セット",
+      "answer_normalized": "ディズム エレキブースト＆リフトセラム＋エレキブースト＆リフトパック セット",
+      "image_url": "./public/assets/products/DMELS0BXS.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMELS0BXS",
+      "categories": [
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 8800,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMELS0AXS1/DMELS0AXS1-0.webp"
+    },
+    {
+      "id": "DMELP000A",
+      "product_code": "DMELP000A",
+      "answer": "ディズム エレキブースト&リフトパック",
+      "answer_normalized": "ディズム エレキブースト&リフトパック",
+      "image_url": "./public/assets/products/DMELP000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMELP000A",
+      "categories": [
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 4950,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMELP000A1/DMELP000A1-0.webp"
+    },
+    {
+      "id": "DMEBN000A",
+      "product_code": "DMEBN000A",
+      "answer": "ディズム エンリッチ バブルネット",
+      "answer_normalized": "ディズム エンリッチ バブルネット",
+      "image_url": "./public/assets/products/DMEBN000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMEBN000A",
+      "categories": [
+        "男性用一覧",
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 715,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMEBN000A1/DMEBN000A1-0.webp?20250826"
+    },
+    {
+      "id": "DMALU000A",
+      "product_code": "DMALU000A",
+      "answer": "ディズム オールインワンジェル ＵＶ",
+      "answer_normalized": "ディズム オールインワンジェル ＵＶ",
+      "image_url": "./public/assets/products/DMALU000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMALU000A",
+      "categories": [
+        "男性用一覧",
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 2530,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMALU000A2/DMALU000A2-0.webp"
+    },
+    {
+      "id": "DMALU01XS",
+      "product_code": "DMALU01XS",
+      "answer": "ディズム オールインワンジェル UV＋HQダークスポットクリアクリームセット",
+      "answer_normalized": "ディズム オールインワンジェル UV＋HQダークスポットクリアクリームセット",
+      "image_url": "./public/assets/products/DMALU01XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMALU01XS",
+      "categories": [
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 4785,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMALU01XS1/DMALU01XS1-0.webp"
+    },
+    {
+      "id": "DMALU00XS",
+      "product_code": "DMALU00XS",
+      "answer": "ディズム オールインワンジェル UV＋マルチスキンケアUVスティックセット",
+      "answer_normalized": "ディズム オールインワンジェル UV＋マルチスキンケアUVスティックセット",
+      "image_url": "./public/assets/products/DMALU00XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMALU00XS",
+      "categories": [
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 5060,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMALU00XS1/DMALU00XS1-0.webp"
+    },
+    {
+      "id": "DMALJ000A",
+      "product_code": "DMALJ000A",
+      "answer": "ディズム オールインワンジェル モイスト [しっとりタイプ]",
+      "answer_normalized": "ディズム オールインワンジェル モイスト [しっとりタイプ]",
+      "image_url": "./public/assets/products/DMALJ000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMALJ000A",
+      "categories": [
+        "男性用一覧",
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 2640,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMALJ000A2/DMALJ000A2-0.webp"
+    },
+    {
+      "id": "DMALJ00XS",
+      "product_code": "DMALJ00XS",
+      "answer": "ディズム オールインワンジェル モイスト [しっとりタイプ]+ クリーミーフォームウォッシュ セット",
+      "answer_normalized": "ディズム オールインワンジェル モイスト [しっとりタイプ]+ クリーミーフォームウォッシュ セット",
+      "image_url": "./public/assets/products/DMALJ00XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMALJ00XS",
+      "categories": [
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 4840,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMALJ00XS2/DMALJ00XS2-0.webp"
+    },
+    {
+      "id": "DMALJ0BXS",
+      "product_code": "DMALJ0BXS",
+      "answer": "ディズム オールインワンジェル モイスト [しっとりタイプ]+ クリーミーフォームウォッシュ ブラック+オールインワンジェルUVセット",
+      "answer_normalized": "ディズム オールインワンジェル モイスト [しっとりタイプ]+ クリーミーフォームウォッシュ ブラック+オールインワンジェルUVセット",
+      "image_url": "./public/assets/products/DMALJ0BXS.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMALJ0BXS",
+      "categories": [
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 6710,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMALJ0BXS1/DMALJ0BXS1-0.webp"
+    },
+    {
+      "id": "DMALJ0AXS",
+      "product_code": "DMALJ0AXS",
+      "answer": "ディズム オールインワンジェル モイスト[しっとりタイプ]+ クリーミーフォームウォッシュ+オールインワンジェルUVセット",
+      "answer_normalized": "ディズム オールインワンジェル モイスト[しっとりタイプ]+ クリーミーフォームウォッシュ+オールインワンジェルUVセット",
+      "image_url": "./public/assets/products/DMALJ0AXS.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMALJ0AXS",
+      "categories": [
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 7370,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMALJ0AXS1/DMALJ0AXS1-0.webp"
+    },
+    {
+      "id": "DMALL000A",
+      "product_code": "DMALL000A",
+      "answer": "ディズム オールインワンジェル ライト [さっぱりタイプ]",
+      "answer_normalized": "ディズム オールインワンジェル ライト [さっぱりタイプ]",
+      "image_url": "./public/assets/products/DMALL000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMALL000A",
+      "categories": [
+        "男性用一覧",
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 2640,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMALL000A1/DMALL000A1-0.webp"
+    },
+    {
+      "id": "DMALL05XS",
+      "product_code": "DMALL05XS",
+      "answer": "ディズム オールインワンジェル ライト [さっぱりタイプ]+ クリーミーフォームウォッシュ ブラック+オールインワンジェルUVセット",
+      "answer_normalized": "ディズム オールインワンジェル ライト [さっぱりタイプ]+ クリーミーフォームウォッシュ ブラック+オールインワンジェルUVセット",
+      "image_url": "./public/assets/products/DMALL05XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMALL05XS",
+      "categories": [
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 6710,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMALL05XS1/DMALL05XS1-0.webp"
+    },
+    {
+      "id": "DMALL04XS",
+      "product_code": "DMALL04XS",
+      "answer": "ディズム オールインワンジェル ライト [さっぱりタイプ]+クリーミーフォームウォッシュ+オールインワンジェルUV",
+      "answer_normalized": "ディズム オールインワンジェル ライト [さっぱりタイプ]+クリーミーフォームウォッシュ+オールインワンジェルUV",
+      "image_url": "./public/assets/products/DMALL04XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMALL04XS",
+      "categories": [
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 6710,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMALL04XS1/DMALL04XS1-0.webp"
+    },
+    {
+      "id": "DMCFW000A",
+      "product_code": "DMCFW000A",
+      "answer": "ディズム クリーミーフォームウォッシュ",
+      "answer_normalized": "ディズム クリーミーフォームウォッシュ",
+      "image_url": "./public/assets/products/DMCFW000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMCFW000A",
+      "categories": [
+        "男性用一覧",
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 2200,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMCFW000A2/DMCFW000A2-0.webp"
+    },
+    {
+      "id": "DMCFG000A",
+      "product_code": "DMCFG000A",
+      "answer": "ディズム クリーミーフォームウォッシュ グリーン",
+      "answer_normalized": "ディズム クリーミーフォームウォッシュ グリーン",
+      "image_url": "./public/assets/products/DMCFG000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMCFG000A",
+      "categories": [
+        "男性用一覧",
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 2680,
+      "is_new": true,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMCFG000A1/DMCFG000A1-0.webp"
+    },
+    {
+      "id": "DMCFB000A",
+      "product_code": "DMCFB000A",
+      "answer": "ディズム クリーミーフォームウォッシュ ブラック",
+      "answer_normalized": "ディズム クリーミーフォームウォッシュ ブラック",
+      "image_url": "./public/assets/products/DMCFB000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMCFB000A",
+      "categories": [
+        "男性用一覧",
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 2200,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMCFB000A2/DMCFB000A2-0.webp"
+    },
+    {
+      "id": "DMCFW02XS",
+      "product_code": "DMCFW02XS",
+      "answer": "ディズム クリーミーフォームウォッシュ​×２本セット",
+      "answer_normalized": "ディズム クリーミーフォームウォッシュ​×２本セット",
+      "image_url": "./public/assets/products/DMCFW02XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMCFW02XS",
+      "categories": [
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 4400,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMCFW02XS2/DMCFW02XS2-0.webp"
+    },
+    {
+      "id": "DMCW0000A",
+      "product_code": "DMCW0000A",
+      "answer": "ディズム クリームウォッシュ",
+      "answer_normalized": "ディズム クリームウォッシュ",
+      "image_url": "./public/assets/products/DMCW0000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMCW0000A",
+      "categories": [
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 2420,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMCW0000A1/DMCW0000A1-0.webp"
+    },
+    {
+      "id": "DMCW006XS",
+      "product_code": "DMCW006XS",
+      "answer": "ディズム クリームウォッシュ+オールインワンジェル モイスト [しっとりタイプ]",
+      "answer_normalized": "ディズム クリームウォッシュ+オールインワンジェル モイスト [しっとりタイプ]",
+      "image_url": "./public/assets/products/DMCW006XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMCW006XS",
+      "categories": [
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 4840,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMCW006XS1/DMCW006XS1-0.webp"
+    },
+    {
+      "id": "DMCW004XS",
+      "product_code": "DMCW004XS",
+      "answer": "ディズム クリームウォッシュ+オールインワンジェル ライト [さっぱりタイプ]",
+      "answer_normalized": "ディズム クリームウォッシュ+オールインワンジェル ライト [さっぱりタイプ]",
+      "image_url": "./public/assets/products/DMCW004XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMCW004XS",
+      "categories": [
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 4840,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMCW004XS1/DMCW004XS1-0.webp"
+    },
+    {
+      "id": "DMCW002XS",
+      "product_code": "DMCW002XS",
+      "answer": "ディズム クリームウォッシュ×2本セット",
+      "answer_normalized": "ディズム クリームウォッシュ×2本セット",
+      "image_url": "./public/assets/products/DMCW002XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMCW002XS",
+      "categories": [
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 4840,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMCW002XS1/DMCW002XS1-0.webp"
+    },
+    {
+      "id": "DMSCB000A",
+      "product_code": "DMSCB000A",
+      "answer": "ディズム スクラブクリームウォッシュ ブラック",
+      "answer_normalized": "ディズム スクラブクリームウォッシュ ブラック",
+      "image_url": "./public/assets/products/DMSCB000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMSCB000A",
+      "categories": [
+        "男性用一覧",
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 2420,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMSCB000A1/DMSCB000A1-0.webp"
+    },
+    {
+      "id": "DMPYCR00A",
+      "product_code": "DMPYCR00A",
+      "answer": "ディズム プラス 薬用クリーム",
+      "answer_normalized": "ディズム プラス 薬用クリーム",
+      "image_url": "./public/assets/products/DMPYCR00A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/DMPYCR00A",
+      "categories": [
+        "男性用一覧",
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 12100,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMPYCR00A1/DMPYCR00A1-0.jpg"
+    },
+    {
+      "id": "DMPYSE00A",
+      "product_code": "DMPYSE00A",
+      "answer": "ディズム プラス 薬用セラム",
+      "answer_normalized": "ディズム プラス 薬用セラム",
+      "image_url": "./public/assets/products/DMPYSE00A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/DMPYSE00A",
+      "categories": [
+        "男性用一覧",
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 9900,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMPYSE00A1/DMPYSE00A1-0.jpg"
+    },
+    {
+      "id": "DMMSU000A",
+      "product_code": "DMMSU000A",
+      "answer": "ディズム マルチスキンケアＵＶスティック",
+      "answer_normalized": "ディズム マルチスキンケアＵＶスティック",
+      "image_url": "./public/assets/products/DMMSU000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DMMSU000A",
+      "categories": [
+        "男性用一覧",
+        "UV・スキンケア一覧"
+      ],
+      "price_jpy": 2530,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DMMSU000A1/DMMSU000A1-0.webp?20250519_01"
+    },
+    {
+      "id": "DRECM000A",
+      "product_code": "DRECM000A",
+      "answer": "ドクターズ ナチュラル レシピ エンパワー C8 MCTオイル",
+      "answer_normalized": "ドクターズ ナチュラル レシピ エンパワー C8 MCTオイル",
+      "image_url": "./public/assets/products/DRECM000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/DRECM000A",
+      "categories": [
+        "食品一覧"
+      ],
+      "price_jpy": 3672,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DRECM000A1/DRECM000A1-0.jpg"
+    },
+    {
+      "id": "DREON000A",
+      "product_code": "DREON000A",
+      "answer": "ドクターズ ナチュラル レシピ なないろ栄養おだし",
+      "answer_normalized": "ドクターズ ナチュラル レシピ なないろ栄養おだし",
+      "image_url": "./public/assets/products/DREON000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/DREON000A",
+      "categories": [
+        "食品一覧",
+        "女性用一覧"
+      ],
+      "price_jpy": 1950,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DREON000A1/DREON000A1-0.jpg"
+    },
+    {
+      "id": "DRFAS000A",
+      "product_code": "DRFAS000A",
+      "answer": "ドクターズ ナチュラル レシピ フローラ アルティメット ショット(美容ドリンク)",
+      "answer_normalized": "ドクターズ ナチュラル レシピ フローラ アルティメット ショット(美容ドリンク)",
+      "image_url": "./public/assets/products/DRFAS000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DRFAS000A",
+      "categories": [
+        "食品一覧"
+      ],
+      "price_jpy": 5980,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DRFAS000A1/ultshot_bundled.webp"
+    },
+    {
+      "id": "DRPRS000A",
+      "product_code": "DRPRS000A",
+      "answer": "ドクターズ ナチュラル レシピ ボタニカルライフスーププロテイン(スイートコーン味)",
+      "answer_normalized": "ドクターズ ナチュラル レシピ ボタニカルライフスーププロテイン(スイートコーン味)",
+      "image_url": "./public/assets/products/DRPRS000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DRPRS000A",
+      "categories": [
+        "食品一覧"
+      ],
+      "price_jpy": 3780,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DRPRS000A1/DRPRS000A1-0.webp"
+    },
+    {
+      "id": "DRNDL000A",
+      "product_code": "DRNDL000A",
+      "answer": "ドクターズ ナチュラル レシピ 美容ヌードル",
+      "answer_normalized": "ドクターズ ナチュラル レシピ 美容ヌードル",
+      "image_url": "./public/assets/products/DRNDL000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DRNDL000A",
+      "categories": [
+        "女性用一覧",
+        "食品一覧"
+      ],
+      "price_jpy": 1980,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DRNDL000A1/DRNDL000A1-0.webp"
+    },
+    {
+      "id": "DRNDL02XS",
+      "product_code": "DRNDL02XS",
+      "answer": "ドクターズ ナチュラル レシピ 美容ヌードル2個セット",
+      "answer_normalized": "ドクターズ ナチュラル レシピ 美容ヌードル2個セット",
+      "image_url": "./public/assets/products/DRNDL02XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/DRNDL02XS",
+      "categories": [
+        "女性用一覧"
+      ],
+      "price_jpy": 3960,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DRNDL02XS1/DRNDL02XS1-0.webp"
+    },
+    {
+      "id": "DRNDL03XS",
+      "product_code": "DRNDL03XS",
+      "answer": "ドクターズ ナチュラル レシピ 美容ヌードル3個セット",
+      "answer_normalized": "ドクターズ ナチュラル レシピ 美容ヌードル3個セット",
+      "image_url": "./public/assets/products/DRNDL03XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/DRNDL03XS",
+      "categories": [
+        "女性用一覧"
+      ],
+      "price_jpy": 5940,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DRNDL03XS1/DRNDL03XS1-0.webp"
+    },
+    {
+      "id": "DRPAN000A",
+      "product_code": "DRPAN000A",
+      "answer": "ドクターズ ナチュラル レシピ 美容パンケーキミックス",
+      "answer_normalized": "ドクターズ ナチュラル レシピ 美容パンケーキミックス",
+      "image_url": "./public/assets/products/DRPAN000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DRPAN000A",
+      "categories": [
+        "食品一覧",
+        "女性用一覧"
+      ],
+      "price_jpy": 1980,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DRPAN000A3/DRPAN000A3-0.webp"
+    },
+    {
+      "id": "DRPRN000A",
+      "product_code": "DRPRN000A",
+      "answer": "ドクターズ ナチュラル レシピ 美容プロテイン（きなこ味）",
+      "answer_normalized": "ドクターズ ナチュラル レシピ 美容プロテイン（きなこ味）",
+      "image_url": "./public/assets/products/DRPRN000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DRPRN000A",
+      "categories": [
+        "食品一覧"
+      ],
+      "price_jpy": 3780,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DRPRN000A3/kinako_bundled.webp"
+    },
+    {
+      "id": "DRPRC000A",
+      "product_code": "DRPRC000A",
+      "answer": "ドクターズ ナチュラル レシピ 美容プロテイン（チョコレート味）",
+      "answer_normalized": "ドクターズ ナチュラル レシピ 美容プロテイン（チョコレート味）",
+      "image_url": "./public/assets/products/DRPRC000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DRPRC000A",
+      "categories": [
+        "食品一覧"
+      ],
+      "price_jpy": 3780,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DRPRC000A3/choco_bundled.webp"
+    },
+    {
+      "id": "DRPRH000A",
+      "product_code": "DRPRH000A",
+      "answer": "ドクターズ ナチュラル レシピ 美容プロテイン（ほうじ茶味）",
+      "answer_normalized": "ドクターズ ナチュラル レシピ 美容プロテイン（ほうじ茶味）",
+      "image_url": "./public/assets/products/DRPRH000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/DRPRH000A",
+      "categories": [
+        "食品一覧"
+      ],
+      "price_jpy": 3780,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DRPRH000A3/DRPRH000A3-0.jpg"
+    },
+    {
+      "id": "DRBPMT00A",
+      "product_code": "DRBPMT00A",
+      "answer": "ドクターズ ナチュラル レシピ 美容プロテイン（抹茶豆乳味）",
+      "answer_normalized": "ドクターズ ナチュラル レシピ 美容プロテイン（抹茶豆乳味）",
+      "image_url": "./public/assets/products/DRBPMT00A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DRBPMT00A",
+      "categories": [
+        "食品一覧"
+      ],
+      "price_jpy": 3780,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DRBPMT00A2/matcha_bundled.webp"
+    },
+    {
+      "id": "DRSKD000A",
+      "product_code": "DRSKD000A",
+      "answer": "ドクターズ ナチュラル レシピ 美容酵素ドリンク(ライチ味)",
+      "answer_normalized": "ドクターズ ナチュラル レシピ 美容酵素ドリンク(ライチ味)",
+      "image_url": "./public/assets/products/DRSKD000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DRSKD000A",
+      "categories": [
+        "食品一覧",
+        "女性用一覧"
+      ],
+      "price_jpy": 2980,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DRSKD000A2/koso_bundled.webp"
+    },
+    {
+      "id": "DRZK0000A",
+      "product_code": "DRZK0000A",
+      "answer": "ドクターズ ナチュラル レシピ 美容黒雑穀",
+      "answer_normalized": "ドクターズ ナチュラル レシピ 美容黒雑穀",
+      "image_url": "./public/assets/products/DRZK0000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DRZK0000A",
+      "categories": [
+        "女性用一覧",
+        "食品一覧"
+      ],
+      "price_jpy": 2250,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DRZK0000A1/DRZK0000A1-0.webp"
+    },
+    {
+      "id": "DRCLB000A",
+      "product_code": "DRCLB000A",
+      "answer": "ドクターズ ナチュラル レシピ 美容乳酸菌サプリメント(パウダー)",
+      "answer_normalized": "ドクターズ ナチュラル レシピ 美容乳酸菌サプリメント(パウダー)",
+      "image_url": "./public/assets/products/DRCLB000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/DRCLB000A",
+      "categories": [
+        "食品一覧",
+        "女性用一覧"
+      ],
+      "price_jpy": 2480,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DRCLB000A2/dnsrsupple_bundled.webp"
+    },
+    {
+      "id": "FEMHB000A",
+      "product_code": "FEMHB000A",
+      "answer": "フェムチャー ハイドラブースター",
+      "answer_normalized": "フェムチャー ハイドラブースター",
+      "image_url": "./public/assets/products/FEMHB000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/FEMHB000A",
+      "categories": [
+        "デリケートゾーンケア一覧"
+      ],
+      "price_jpy": 4180,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/FEMHB000A1/FEMHB000A1-0.webp"
+    },
+    {
+      "id": "FEMBOP00A",
+      "product_code": "FEMBOP00A",
+      "answer": "フェムチャー バランシングオイルプラス",
+      "answer_normalized": "フェムチャー バランシングオイルプラス",
+      "image_url": "./public/assets/products/FEMBOP00A.webp",
+      "product_url": "https://www.angfa-store.jp/product/FEMBOP00A",
+      "categories": [
+        "女性用一覧",
+        "デリケートゾーンケア一覧"
+      ],
+      "price_jpy": 5280,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/FEMBOP00A1/FEMBOP00A1-0.webp"
+    },
+    {
+      "id": "FEMFPS00A",
+      "product_code": "FEMFPS00A",
+      "answer": "フェムチャー フローラプロテクトサプリ",
+      "answer_normalized": "フェムチャー フローラプロテクトサプリ",
+      "image_url": "./public/assets/products/FEMFPS00A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/FEMFPS00A",
+      "categories": [
+        "女性用一覧",
+        "サプリメント一覧",
+        "デリケートゾーンケア一覧"
+      ],
+      "price_jpy": 4980,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/FEMFPS00A1/FEMFPS00A1-0.jpg"
+    },
+    {
+      "id": "FEMMFW00A",
+      "product_code": "FEMMFW00A",
+      "answer": "フェムチャー マイルドフォームウォッシュ",
+      "answer_normalized": "フェムチャー マイルドフォームウォッシュ",
+      "image_url": "./public/assets/products/FEMMFW00A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/FEMMFW00A",
+      "categories": [
+        "女性用一覧",
+        "ボディーケア一覧",
+        "デリケートゾーンケア一覧"
+      ],
+      "price_jpy": 3690,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/FEMMFW00A1/FEMMFW00A1-0.jpg"
+    },
+    {
+      "id": "FEMMM02XS",
+      "product_code": "FEMMM02XS",
+      "answer": "フェムチャー マイルドフォームウォッシュ＆ミルクミスト＆コットンバッグ付き",
+      "answer_normalized": "フェムチャー マイルドフォームウォッシュ＆ミルクミスト＆コットンバッグ付き",
+      "image_url": "./public/assets/products/FEMMM02XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/FEMMM02XS",
+      "categories": [
+        "デリケートゾーンケア一覧"
+      ],
+      "price_jpy": 6550,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/FEMMM02XS1/FEMMM02XS1-0.jpg"
+    },
+    {
+      "id": "FEMMM00XS",
+      "product_code": "FEMMM00XS",
+      "answer": "フェムチャー マイルドフォームウォッシュ＆ミルクミストセット",
+      "answer_normalized": "フェムチャー マイルドフォームウォッシュ＆ミルクミストセット",
+      "image_url": "./public/assets/products/FEMMM00XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/FEMMM00XS",
+      "categories": [
+        "デリケートゾーンケア一覧"
+      ],
+      "price_jpy": 6550,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/FEMMM00XS1/FEMMM00XS1-0.jpg"
+    },
+    {
+      "id": "FEMMFW1XS",
+      "product_code": "FEMMFW1XS",
+      "answer": "フェムチャー マイルドフォームウォッシュ2本セット",
+      "answer_normalized": "フェムチャー マイルドフォームウォッシュ2本セット",
+      "image_url": "./public/assets/products/FEMMFW1XS.jpg",
+      "product_url": "https://www.angfa-store.jp/product/FEMMFW1XS",
+      "categories": [
+        "デリケートゾーンケア一覧"
+      ],
+      "price_jpy": 7380,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/FEMMFW1XS1/FEMMFW1XS1-0.jpg"
+    },
+    {
+      "id": "FEMMM000A",
+      "product_code": "FEMMM000A",
+      "answer": "フェムチャー ミルクミスト",
+      "answer_normalized": "フェムチャー ミルクミスト",
+      "image_url": "./public/assets/products/FEMMM000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/FEMMM000A",
+      "categories": [
+        "女性用一覧",
+        "ボディーケア一覧",
+        "デリケートゾーンケア一覧"
+      ],
+      "price_jpy": 2860,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/FEMMM000A1/FEMMM000A1-0.jpg"
+    },
+    {
+      "id": "FEMHB00XS",
+      "product_code": "FEMHB00XS",
+      "answer": "フェムチャースタンダードケアセット（バランシングオイルプラス＆ハイドラブースター）",
+      "answer_normalized": "フェムチャースタンダードケアセット（バランシングオイルプラス＆ハイドラブースター）",
+      "image_url": "./public/assets/products/FEMHB00XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/FEMHB00XS",
+      "categories": [
+        "デリケートゾーンケア一覧"
+      ],
+      "price_jpy": 9460,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/FEMHB00XS1/FEMHB00XS1-0.webp"
+    },
+    {
+      "id": "FEMHB01XS",
+      "product_code": "FEMHB01XS",
+      "answer": "フェムチャーデイリーケアセット（バランシングオイルプラス＆ハイドラブースター＆フローラプロテクトサプリ）",
+      "answer_normalized": "フェムチャーデイリーケアセット（バランシングオイルプラス＆ハイドラブースター＆フローラプロテクトサプリ）",
+      "image_url": "./public/assets/products/FEMHB01XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/FEMHB01XS",
+      "categories": [
+        "デリケートゾーンケア一覧"
+      ],
+      "price_jpy": 14440,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/FEMHB01XS1/FEMHB01XS1-0.webp"
+    },
+    {
+      "id": "FEMHB02XS",
+      "product_code": "FEMHB02XS",
+      "answer": "フェムチャープレミアムケアセット（バランシングオイルプラス＆ハイドラブースター＆フローラプロテクトサプリ＆マイルドフォームウォッシュ）",
+      "answer_normalized": "フェムチャープレミアムケアセット（バランシングオイルプラス＆ハイドラブースター＆フローラプロテクトサプリ＆マイルドフォームウォッシュ）",
+      "image_url": "./public/assets/products/FEMHB02XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/FEMHB02XS",
+      "categories": [
+        "デリケートゾーンケア一覧"
+      ],
+      "price_jpy": 18130,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/FEMHB02XS1/FEMHB02XS1-0.webp"
+    },
+    {
+      "id": "FEMFPS1XS",
+      "product_code": "FEMFPS1XS",
+      "answer": "フェムチャーフローラプロテクトサプリ 3個セット",
+      "answer_normalized": "フェムチャーフローラプロテクトサプリ 3個セット",
+      "image_url": "./public/assets/products/FEMFPS1XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/FEMFPS1XS",
+      "categories": [
+        "デリケートゾーンケア一覧"
+      ],
+      "price_jpy": 14940,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/FEMFPS1XS1/FEMFPS1XS1-0.webp"
+    },
+    {
+      "id": "BTVDP000A",
+      "product_code": "BTVDP000A",
+      "answer": "ベロア２WAYポーチ",
+      "answer_normalized": "ベロア２WAYポーチ",
+      "image_url": "./public/assets/products/BTVDP000A.webp",
+      "product_url": "https://www.angfa-store.jp/product/BTVDP000A",
+      "categories": [
+        "その他ヘアケア商品一覧"
+      ],
+      "price_jpy": 5500,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/BTVDP000A1/BTVDP000A1-0.webp"
+    },
+    {
+      "id": "DRPRW08XS",
+      "product_code": "DRPRW08XS",
+      "answer": "ボタニカルライフスーププロテイン（スイートコーン味）＆美容プロテイン(抹茶豆乳味)セット",
+      "answer_normalized": "ボタニカルライフスーププロテイン（スイートコーン味）＆美容プロテイン(抹茶豆乳味)セット",
+      "image_url": "./public/assets/products/DRPRW08XS.webp",
+      "product_url": "https://www.angfa-store.jp/product/DRPRW08XS",
+      "categories": [
+        "食品一覧"
+      ],
+      "price_jpy": 7560,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/DRPRW08XS1/DRPRW08XS1-0.webp"
+    },
+    {
+      "id": "DMHEP000A",
+      "product_code": "DMHEP000A",
+      "answer": "乾燥性皮膚疾患治療薬(第2類医薬品)",
+      "answer_normalized": "乾燥性皮膚疾患治療薬(第2類医薬品)",
+      "image_url": "./public/assets/products/DMHEP000A.png",
+      "product_url": "https://www.angfa-store.jp/product/DMHEP000A",
+      "categories": [
+        "男性用一覧",
+        "発毛剤（第1類医薬品）一覧",
+        "育毛剤・育毛スプレー一覧",
+        "スタイリング剤一覧",
+        "UV・スキンケア一覧",
+        "サプリメント一覧",
+        "シャンプー・トリートメント一覧",
+        "白髪染め・ヘアカラー一覧",
+        "その他ヘアケア商品一覧",
+        "食品一覧",
+        "その他一覧",
+        "男性コンディションケア一覧",
+        "女性用一覧",
+        "まつげ美容液一覧",
+        "ボディーケア一覧",
+        "デリケートゾーンケア一覧",
+        "ベビー商品一覧",
+        "ボディケア一覧"
+      ],
+      "price_jpy": 7800,
+      "is_new": true,
+      "source_image_url": "https://cdn.angfa-store.jp/images/category/mens_img15.png"
+    },
+    {
+      "id": "HTDNS000A",
+      "product_code": "HTDNS000A",
+      "answer": "名医が教える男性妊活の最強事典",
+      "answer_normalized": "名医が教える男性妊活の最強事典",
+      "image_url": "./public/assets/products/HTDNS000A.jpg",
+      "product_url": "https://www.angfa-store.jp/product/HTDNS000A",
+      "categories": [
+        "男性用一覧"
+      ],
+      "price_jpy": 1980,
+      "is_new": false,
+      "source_image_url": "https://cdn.angfa-store.jp/sku-images/HTDNS000A1/HTDNS000A1.jpg"
+    }
+  ],
+  "local_image_summary": {
+    "downloaded": 245,
+    "skipped_existing": 0,
+    "failed": 0
+  }
+}
