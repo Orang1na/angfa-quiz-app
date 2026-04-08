@@ -23,10 +23,14 @@ python3 -m http.server 4173
 
 GitHub Pages 向けの構成です。ビルドは不要です。
 
-1. このディレクトリを GitHub リポジトリに push
-2. GitHub の `Settings > Pages`
-3. `Deploy from a branch`
-4. 対象ブランチの `/root` を公開
+- `.github/workflows/deploy-pages.yml` により、`prod` へ push すると GitHub Pages へ自動デプロイします
+- 初回だけ Pages の公開方式を GitHub Actions に切り替える必要があります
+
+## ブランチ運用
+
+- `main`: 作業用、確認用
+- `prod`: 公開用
+- 公開したいタイミングで `main` の内容を `prod` に反映します
 
 ## データ運用
 
