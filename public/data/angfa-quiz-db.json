@@ -1,6 +1,6 @@
 {
   "generated_from": "angfa-products.json",
-  "item_count": 245,
+  "item_count": 244,
   "items": [
     {
       "id": "FEMPTN00A",
@@ -3587,37 +3587,6 @@
       "source_image_url": "https://cdn.angfa-store.jp/sku-images/DRPRW08XS1/DRPRW08XS1-0.webp"
     },
     {
-      "id": "DMHEP000A",
-      "product_code": "DMHEP000A",
-      "answer": "乾燥性皮膚疾患治療薬(第2類医薬品)",
-      "answer_normalized": "乾燥性皮膚疾患治療薬(第2類医薬品)",
-      "image_url": "./public/assets/products/DMHEP000A.png",
-      "product_url": "https://www.angfa-store.jp/product/DMHEP000A",
-      "categories": [
-        "男性用一覧",
-        "発毛剤（第1類医薬品）一覧",
-        "育毛剤・育毛スプレー一覧",
-        "スタイリング剤一覧",
-        "UV・スキンケア一覧",
-        "サプリメント一覧",
-        "シャンプー・トリートメント一覧",
-        "白髪染め・ヘアカラー一覧",
-        "その他ヘアケア商品一覧",
-        "食品一覧",
-        "その他一覧",
-        "男性コンディションケア一覧",
-        "女性用一覧",
-        "まつげ美容液一覧",
-        "ボディーケア一覧",
-        "デリケートゾーンケア一覧",
-        "ベビー商品一覧",
-        "ボディケア一覧"
-      ],
-      "price_jpy": 7800,
-      "is_new": true,
-      "source_image_url": "https://cdn.angfa-store.jp/images/category/mens_img15.png"
-    },
-    {
       "id": "HTDNS000A",
       "product_code": "HTDNS000A",
       "answer": "名医が教える男性妊活の最強事典",
@@ -3635,6 +3604,7 @@
   "local_image_summary": {
     "downloaded": 245,
     "skipped_existing": 0,
-    "failed": 0
+    "failed": 0,
+    "filtered_invalid_quiz_items": 1
   }
 }

@@ -35,6 +35,19 @@ function shuffle(array) {
   return clone;
 }
 
+function sanitizeItems(items) {
+  return items
+    .filter((item) => {
+      if (!item?.answer || !item?.image_url) return false;
+      if (item?.source_image_url?.includes("/images/category/")) return false;
+      return true;
+    })
+    .map((item) => ({
+      ...item,
+      categories: [...new Set(item.categories || [])],
+    }));
+}
+
 function availableItems() {
   return state.items.filter((item) => {
     const byCategory =
@@ -226,7 +239,7 @@ function render() {
                     ? `
                       <div class="answer-card">
                         <span>正解</span>
-                        <strong>${current.name}</strong>
+                        <strong>${current.answer}</strong>
                         <small>商品コード: ${current.product_code}</small>
                         <a href="${current.product_url}" target="_blank" rel="noreferrer">商品ページを開く</a>
                       </div>
@@ -346,7 +359,7 @@ async function boot() {
       throw new Error(`Failed to load quiz data: ${response.status}`);
     }
     const payload = await response.json();
-    state.items = payload.items || [];
+    state.items = sanitizeItems(payload.items || []);
     state.loading = false;
     resetQuiz();
   } catch (error) {
