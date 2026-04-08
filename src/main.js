@@ -11,7 +11,6 @@ const state = {
   },
   filters: {
     category: "all",
-    newOnly: false,
   },
   lastResult: null,
 };
@@ -50,11 +49,10 @@ function sanitizeItems(items) {
 
 function availableItems() {
   return state.items.filter((item) => {
-    const byCategory =
+    return (
       state.filters.category === "all" ||
-      item.categories.includes(state.filters.category);
-    const byNew = !state.filters.newOnly || item.is_new;
-    return byCategory && byNew;
+      item.categories.includes(state.filters.category)
+    );
   });
 }
 
@@ -110,7 +108,7 @@ function render() {
       <main class="shell loading-shell">
         <section class="hero">
           <p class="eyebrow">ANGFA Product Quiz</p>
-          <h1>商品DBを読み込み中です</h1>
+          <h1>問題を読み込み中です</h1>
         </section>
       </main>
     `;
@@ -127,11 +125,7 @@ function render() {
       <section class="hero">
         <div>
           <p class="eyebrow">ANGFA Product Quiz</p>
-          <h1>画像から正式名称を当てる</h1>
-          <p class="subtext">
-            GitHub Pages でそのまま動く静的アプリです。問題データは
-            <code>public/data/angfa-quiz-db.json</code> を読んでいます。
-          </p>
+          <h1>NAME HUNT</h1>
         </div>
         <div class="stats-panel">
           <div class="stat-card">
@@ -166,13 +160,7 @@ function render() {
               .join("")}
           </select>
         </label>
-        <label class="toggle">
-          <input type="checkbox" id="newOnlyToggle" ${
-            state.filters.newOnly ? "checked" : ""
-          } />
-          <span>NEW商品のみ</span>
-        </label>
-        <button id="resetButton" class="button button-secondary">出題をリセット</button>
+        <button id="resetButton" class="button button-secondary">はじめからやり直す</button>
       </section>
 
       <section class="board ${disabled ? "board-empty" : ""}">
@@ -180,8 +168,8 @@ function render() {
           disabled
             ? `
               <div class="empty-state">
-                <h2>該当データがありません</h2>
-                <p>フィルタ条件を緩めてください。</p>
+                <h2>このカテゴリの問題はありません</h2>
+                <p>別のカテゴリを選んでください。</p>
               </div>
             `
             : `
@@ -199,7 +187,6 @@ function render() {
                     ${current.categories
                       .map((category) => `<span class="chip">${category}</span>`)
                       .join("")}
-                    ${current.is_new ? `<span class="chip chip-new">NEW</span>` : ""}
                   </div>
                   <p class="hint">正式名称を入力してください。空白や記号の差はある程度吸収します。</p>
                 </div>
@@ -284,14 +271,6 @@ function bindEvents() {
   if (categorySelect) {
     categorySelect.addEventListener("change", (event) => {
       state.filters.category = event.target.value;
-      resetQuiz();
-    });
-  }
-
-  const newOnlyToggle = document.querySelector("#newOnlyToggle");
-  if (newOnlyToggle) {
-    newOnlyToggle.addEventListener("change", (event) => {
-      state.filters.newOnly = event.target.checked;
       resetQuiz();
     });
   }
