@@ -11,11 +11,27 @@ const state = {
   },
   filters: {
     category: "all",
+    listQuery: "",
   },
+  view: "quiz",
   lastResult: null,
 };
 
 const app = document.querySelector("#app");
+const priceFormatter = new Intl.NumberFormat("ja-JP", {
+  style: "currency",
+  currency: "JPY",
+  maximumFractionDigits: 0,
+});
+
+function escapeHtml(value) {
+  return String(value || "")
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
+}
 
 function normalizeAnswer(value) {
   return (value || "")
@@ -53,6 +69,21 @@ function availableItems() {
       state.filters.category === "all" ||
       item.categories.includes(state.filters.category)
     );
+  });
+}
+
+function productListItems() {
+  const query = normalizeAnswer(state.filters.listQuery);
+  const items = availableItems();
+  if (!query) return items;
+
+  return items.filter((item) => {
+    const searchable = [
+      item.answer,
+      item.product_code,
+      ...(item.categories || []),
+    ].join(" ");
+    return normalizeAnswer(searchable).includes(query);
   });
 }
 
@@ -102,6 +133,70 @@ function resultTone(result) {
   return result.correct ? "result result-correct" : "result result-wrong";
 }
 
+function formatPrice(price) {
+  if (typeof price !== "number") return "";
+  return priceFormatter.format(price);
+}
+
+function renderProductList(items) {
+  if (items.length === 0) {
+    return `
+      <section class="product-list product-list-empty">
+        <div class="empty-state">
+          <h2>該当する商品はありません</h2>
+          <p>カテゴリや検索キーワードを変えてください。</p>
+        </div>
+      </section>
+    `;
+  }
+
+  return `
+    <section class="product-list" aria-label="商品一覧">
+      <div class="list-header">
+        <div>
+          <p class="eyebrow">Product List</p>
+          <h2>商品一覧</h2>
+        </div>
+        <span>${items.length}件</span>
+      </div>
+      <div class="product-grid">
+        ${items
+          .map(
+            (item) => `
+              <article class="product-card">
+                <div class="product-thumb">
+                  <img src="${escapeHtml(item.image_url)}" alt="${escapeHtml(
+                    item.answer,
+                  )}" loading="lazy" />
+                </div>
+                <div class="product-info">
+                  <div class="chips">
+                    ${(item.categories || [])
+                      .map((category) => `<span class="chip">${escapeHtml(category)}</span>`)
+                      .join("")}
+                  </div>
+                  <h3>${escapeHtml(item.answer)}</h3>
+                  <div class="product-meta">
+                    <span>${escapeHtml(item.product_code)}</span>
+                    ${
+                      formatPrice(item.price_jpy)
+                        ? `<span>${escapeHtml(formatPrice(item.price_jpy))}</span>`
+                        : ""
+                    }
+                  </div>
+                  <a href="${escapeHtml(
+                    item.product_url,
+                  )}" target="_blank" rel="noreferrer">商品ページを開く</a>
+                </div>
+              </article>
+            `,
+          )
+          .join("")}
+      </div>
+    </section>
+  `;
+}
+
 function render() {
   if (state.loading) {
     app.innerHTML = `
@@ -118,6 +213,7 @@ function render() {
   const current = state.currentItem;
   const categories = categoryOptions();
   const filteredCount = availableItems().length;
+  const listItems = productListItems();
   const disabled = filteredCount === 0;
 
   app.innerHTML = `
@@ -160,83 +256,128 @@ function render() {
               .join("")}
           </select>
         </label>
-        <button id="resetButton" class="button button-secondary">はじめからやり直す</button>
-      </section>
-
-      <section class="board ${disabled ? "board-empty" : ""}">
         ${
-          disabled
+          state.view === "list"
             ? `
-              <div class="empty-state">
-                <h2>このカテゴリの問題はありません</h2>
-                <p>別のカテゴリを選んでください。</p>
-              </div>
-            `
-            : `
-              <div class="question-panel">
-                <div class="image-wrap">
-                  ${
-                    current
-                      ? `<img src="${current.image_url}" alt="quiz product" class="product-image" />`
-                      : `<div class="image-fallback">問題を準備できませんでした</div>`
-                  }
-                </div>
-
-                <div class="question-meta">
-                  <div class="chips">
-                    ${current.categories
-                      .map((category) => `<span class="chip">${category}</span>`)
-                      .join("")}
-                  </div>
-                  <p class="hint">正式名称を入力してください。空白や記号の差はある程度吸収します。</p>
-                </div>
-              </div>
-
-              <form id="answerForm" class="answer-panel">
-                <label for="answerInput">回答</label>
+              <label>
+                <span>商品検索</span>
                 <input
-                  id="answerInput"
-                  name="answer"
+                  id="listSearchInput"
                   type="text"
-                  placeholder="商品名を入力"
+                  value="${escapeHtml(state.filters.listQuery)}"
+                  placeholder="商品名・コードで検索"
                   autocomplete="off"
                   spellcheck="false"
                 />
-                <div class="actions">
-                  <button type="submit" class="button">判定する</button>
-                  <button type="button" id="revealButton" class="button button-secondary">
-                    答えを見る
-                  </button>
-                  <button type="button" id="skipButton" class="button button-ghost">
-                    スキップ
-                  </button>
-                </div>
-                <div class="${resultTone(state.lastResult)}">
-                  ${
-                    state.lastResult
-                      ? `
-                        <strong>${state.lastResult.correct ? "正解" : "不正解"}</strong>
-                        <span>${state.lastResult.message}</span>
-                      `
-                      : ""
-                  }
-                </div>
-                ${
-                  state.answerVisible
-                    ? `
-                      <div class="answer-card">
-                        <span>正解</span>
-                        <strong>${current.answer}</strong>
-                        <small>商品コード: ${current.product_code}</small>
-                        <a href="${current.product_url}" target="_blank" rel="noreferrer">商品ページを開く</a>
-                      </div>
-                    `
-                    : ""
-                }
-              </form>
+              </label>
             `
+            : ""
+        }
+        <div class="view-switch" aria-label="表示切替">
+          <button
+            type="button"
+            id="quizViewButton"
+            class="button ${state.view === "quiz" ? "" : "button-secondary"}"
+            aria-pressed="${state.view === "quiz"}"
+          >
+            クイズ
+          </button>
+          <button
+            type="button"
+            id="listViewButton"
+            class="button ${state.view === "list" ? "" : "button-secondary"}"
+            aria-pressed="${state.view === "list"}"
+          >
+            商品一覧
+          </button>
+        </div>
+        ${
+          state.view === "quiz"
+            ? `<button id="resetButton" class="button button-secondary">はじめからやり直す</button>`
+            : ""
         }
       </section>
+
+      ${
+        state.view === "list"
+          ? renderProductList(listItems)
+          : `
+            <section class="board ${disabled ? "board-empty" : ""}">
+              ${
+                disabled
+                  ? `
+                    <div class="empty-state">
+                      <h2>このカテゴリの問題はありません</h2>
+                      <p>別のカテゴリを選んでください。</p>
+                    </div>
+                  `
+                  : `
+                    <div class="question-panel">
+                      <div class="image-wrap">
+                        ${
+                          current
+                            ? `<img src="${current.image_url}" alt="quiz product" class="product-image" />`
+                            : `<div class="image-fallback">問題を準備できませんでした</div>`
+                        }
+                      </div>
+
+                      <div class="question-meta">
+                        <div class="chips">
+                          ${current.categories
+                            .map((category) => `<span class="chip">${category}</span>`)
+                            .join("")}
+                        </div>
+                        <p class="hint">正式名称を入力してください。空白や記号の差はある程度吸収します。</p>
+                      </div>
+                    </div>
+
+                    <form id="answerForm" class="answer-panel">
+                      <label for="answerInput">回答</label>
+                      <input
+                        id="answerInput"
+                        name="answer"
+                        type="text"
+                        placeholder="商品名を入力"
+                        autocomplete="off"
+                        spellcheck="false"
+                      />
+                      <div class="actions">
+                        <button type="submit" class="button">判定する</button>
+                        <button type="button" id="revealButton" class="button button-secondary">
+                          答えを見る
+                        </button>
+                        <button type="button" id="skipButton" class="button button-ghost">
+                          スキップ
+                        </button>
+                      </div>
+                      <div class="${resultTone(state.lastResult)}">
+                        ${
+                          state.lastResult
+                            ? `
+                              <strong>${state.lastResult.correct ? "正解" : "不正解"}</strong>
+                              <span>${state.lastResult.message}</span>
+                            `
+                            : ""
+                        }
+                      </div>
+                      ${
+                        state.answerVisible
+                          ? `
+                            <div class="answer-card">
+                              <span>正解</span>
+                              <strong>${current.answer}</strong>
+                              <small>商品コード: ${current.product_code}</small>
+                              <a href="${current.product_url}" target="_blank" rel="noreferrer">商品ページを開く</a>
+                            </div>
+                          `
+                          : ""
+                      }
+                    </form>
+                  `
+              }
+            </section>
+          `
+      }
     </main>
   `;
 
@@ -267,6 +408,35 @@ function judgeAnswer(formData) {
 }
 
 function bindEvents() {
+  const quizViewButton = document.querySelector("#quizViewButton");
+  if (quizViewButton) {
+    quizViewButton.addEventListener("click", () => {
+      state.view = "quiz";
+      render();
+    });
+  }
+
+  const listViewButton = document.querySelector("#listViewButton");
+  if (listViewButton) {
+    listViewButton.addEventListener("click", () => {
+      state.view = "list";
+      render();
+    });
+  }
+
+  const listSearchInput = document.querySelector("#listSearchInput");
+  if (listSearchInput) {
+    listSearchInput.addEventListener("input", (event) => {
+      state.filters.listQuery = event.target.value;
+      render();
+    });
+    listSearchInput.focus();
+    listSearchInput.setSelectionRange(
+      listSearchInput.value.length,
+      listSearchInput.value.length,
+    );
+  }
+
   const categorySelect = document.querySelector("#categorySelect");
   if (categorySelect) {
     categorySelect.addEventListener("change", (event) => {
