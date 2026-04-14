@@ -14,6 +14,7 @@ const state = {
     listQuery: "",
   },
   view: "quiz",
+  listSearchComposing: false,
   lastResult: null,
 };
 
@@ -426,8 +427,19 @@ function bindEvents() {
 
   const listSearchInput = document.querySelector("#listSearchInput");
   if (listSearchInput) {
+    listSearchInput.addEventListener("compositionstart", () => {
+      state.listSearchComposing = true;
+    });
+
+    listSearchInput.addEventListener("compositionend", (event) => {
+      state.listSearchComposing = false;
+      state.filters.listQuery = event.target.value;
+      render();
+    });
+
     listSearchInput.addEventListener("input", (event) => {
       state.filters.listQuery = event.target.value;
+      if (state.listSearchComposing || event.isComposing) return;
       render();
     });
     listSearchInput.focus();
