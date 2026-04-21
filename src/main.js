@@ -1,3 +1,8 @@
+const VIEW_QUIZ = "quiz";
+const VIEW_LIST = "list";
+const VIEW_CHEAT = "cheat";
+const CHEAT_SHEET_PDF_PATH = "./public/data/回答例.pdf";
+
 const state = {
   items: [],
   queue: [],
@@ -13,7 +18,7 @@ const state = {
     category: "all",
     listQuery: "",
   },
-  view: "quiz",
+  view: VIEW_QUIZ,
   listSearchComposing: false,
   lastResult: null,
 };
@@ -198,6 +203,119 @@ function renderProductList(items) {
   `;
 }
 
+function renderCheatSheet() {
+  return `
+    <section class="cheat-sheet" aria-label="チートシート">
+      <div class="list-header">
+        <div>
+          <p class="eyebrow">Answer Example PDF</p>
+          <h2>チートシート</h2>
+        </div>
+        <a
+          class="cheat-link"
+          href="${CHEAT_SHEET_PDF_PATH}"
+          target="_blank"
+          rel="noreferrer"
+        >
+          PDFを別タブで開く
+        </a>
+      </div>
+      <div class="pdf-frame">
+        <iframe
+          src="${CHEAT_SHEET_PDF_PATH}#view=FitH"
+          title="回答例PDF"
+          class="pdf-embed"
+        ></iframe>
+      </div>
+    </section>
+  `;
+}
+
+function renderQuizBoard(current, disabled) {
+  return `
+    <section class="board ${disabled ? "board-empty" : ""}">
+      ${
+        disabled
+          ? `
+            <div class="empty-state">
+              <h2>このカテゴリの問題はありません</h2>
+              <p>別のカテゴリを選んでください。</p>
+            </div>
+          `
+          : `
+            <div class="question-panel">
+              <div class="image-wrap">
+                ${
+                  current
+                    ? `<img src="${current.image_url}" alt="quiz product" class="product-image" />`
+                    : `<div class="image-fallback">問題を準備できませんでした</div>`
+                }
+              </div>
+
+              <div class="question-meta">
+                <div class="chips">
+                  ${current.categories
+                    .map((category) => `<span class="chip">${category}</span>`)
+                    .join("")}
+                </div>
+                <p class="hint">正式名称を入力してください。空白や記号の差はある程度吸収します。</p>
+              </div>
+            </div>
+
+            <form id="answerForm" class="answer-panel">
+              <label for="answerInput">回答</label>
+              <input
+                id="answerInput"
+                name="answer"
+                type="text"
+                placeholder="商品名を入力"
+                autocomplete="off"
+                spellcheck="false"
+              />
+              <div class="actions">
+                <button type="submit" class="button">判定する</button>
+                <button type="button" id="revealButton" class="button button-secondary">
+                  答えを見る
+                </button>
+                <button type="button" id="skipButton" class="button button-ghost">
+                  スキップ
+                </button>
+              </div>
+              <div class="${resultTone(state.lastResult)}">
+                ${
+                  state.lastResult
+                    ? `
+                      <strong>${state.lastResult.correct ? "正解" : "不正解"}</strong>
+                      <span>${state.lastResult.message}</span>
+                    `
+                    : ""
+                }
+              </div>
+              ${
+                state.answerVisible
+                  ? `
+                    <div class="answer-card">
+                      <span>正解</span>
+                      <strong>${current.answer}</strong>
+                      <small>商品コード: ${current.product_code}</small>
+                      <a href="${current.product_url}" target="_blank" rel="noreferrer">商品ページを開く</a>
+                    </div>
+                  `
+                  : ""
+              }
+            </form>
+          `
+      }
+    </section>
+  `;
+}
+
+function renderViewContent({ current, listItems, disabled }) {
+  if (state.view === VIEW_LIST) return renderProductList(listItems);
+  if (state.view === VIEW_CHEAT) return renderCheatSheet();
+  return renderQuizBoard(current, disabled);
+}
+
 function render() {
   if (state.loading) {
     app.innerHTML = `
@@ -241,24 +359,30 @@ function render() {
       </section>
 
       <section class="controls">
-        <label>
-          <span>カテゴリ</span>
-          <select id="categorySelect">
-            ${categories
-              .map(
-                (category) => `
-                  <option value="${category}" ${
-                    category === state.filters.category ? "selected" : ""
-                  }>
-                    ${category === "all" ? "すべて" : category}
-                  </option>
-                `,
-              )
-              .join("")}
-          </select>
-        </label>
         ${
-          state.view === "list"
+          state.view !== VIEW_CHEAT
+            ? `
+              <label>
+                <span>カテゴリ</span>
+                <select id="categorySelect">
+                  ${categories
+                    .map(
+                      (category) => `
+                        <option value="${category}" ${
+                          category === state.filters.category ? "selected" : ""
+                        }>
+                          ${category === "all" ? "すべて" : category}
+                        </option>
+                      `,
+                    )
+                    .join("")}
+                </select>
+              </label>
+            `
+            : ""
+        }
+        ${
+          state.view === VIEW_LIST
             ? `
               <label>
                 <span>商品検索</span>
@@ -278,107 +402,36 @@ function render() {
           <button
             type="button"
             id="quizViewButton"
-            class="button ${state.view === "quiz" ? "" : "button-secondary"}"
-            aria-pressed="${state.view === "quiz"}"
+            class="button ${state.view === VIEW_QUIZ ? "" : "button-secondary"}"
+            aria-pressed="${state.view === VIEW_QUIZ}"
           >
             クイズ
           </button>
           <button
             type="button"
             id="listViewButton"
-            class="button ${state.view === "list" ? "" : "button-secondary"}"
-            aria-pressed="${state.view === "list"}"
+            class="button ${state.view === VIEW_LIST ? "" : "button-secondary"}"
+            aria-pressed="${state.view === VIEW_LIST}"
           >
             商品一覧
           </button>
+          <button
+            type="button"
+            id="cheatViewButton"
+            class="button ${state.view === VIEW_CHEAT ? "" : "button-secondary"}"
+            aria-pressed="${state.view === VIEW_CHEAT}"
+          >
+            チートシート
+          </button>
         </div>
         ${
-          state.view === "quiz"
+          state.view === VIEW_QUIZ
             ? `<button id="resetButton" class="button button-secondary">はじめからやり直す</button>`
             : ""
         }
       </section>
 
-      ${
-        state.view === "list"
-          ? renderProductList(listItems)
-          : `
-            <section class="board ${disabled ? "board-empty" : ""}">
-              ${
-                disabled
-                  ? `
-                    <div class="empty-state">
-                      <h2>このカテゴリの問題はありません</h2>
-                      <p>別のカテゴリを選んでください。</p>
-                    </div>
-                  `
-                  : `
-                    <div class="question-panel">
-                      <div class="image-wrap">
-                        ${
-                          current
-                            ? `<img src="${current.image_url}" alt="quiz product" class="product-image" />`
-                            : `<div class="image-fallback">問題を準備できませんでした</div>`
-                        }
-                      </div>
-
-                      <div class="question-meta">
-                        <div class="chips">
-                          ${current.categories
-                            .map((category) => `<span class="chip">${category}</span>`)
-                            .join("")}
-                        </div>
-                        <p class="hint">正式名称を入力してください。空白や記号の差はある程度吸収します。</p>
-                      </div>
-                    </div>
-
-                    <form id="answerForm" class="answer-panel">
-                      <label for="answerInput">回答</label>
-                      <input
-                        id="answerInput"
-                        name="answer"
-                        type="text"
-                        placeholder="商品名を入力"
-                        autocomplete="off"
-                        spellcheck="false"
-                      />
-                      <div class="actions">
-                        <button type="submit" class="button">判定する</button>
-                        <button type="button" id="revealButton" class="button button-secondary">
-                          答えを見る
-                        </button>
-                        <button type="button" id="skipButton" class="button button-ghost">
-                          スキップ
-                        </button>
-                      </div>
-                      <div class="${resultTone(state.lastResult)}">
-                        ${
-                          state.lastResult
-                            ? `
-                              <strong>${state.lastResult.correct ? "正解" : "不正解"}</strong>
-                              <span>${state.lastResult.message}</span>
-                            `
-                            : ""
-                        }
-                      </div>
-                      ${
-                        state.answerVisible
-                          ? `
-                            <div class="answer-card">
-                              <span>正解</span>
-                              <strong>${current.answer}</strong>
-                              <small>商品コード: ${current.product_code}</small>
-                              <a href="${current.product_url}" target="_blank" rel="noreferrer">商品ページを開く</a>
-                            </div>
-                          `
-                          : ""
-                      }
-                    </form>
-                  `
-              }
-            </section>
-          `
-      }
+      ${renderViewContent({ current, listItems, disabled })}
     </main>
   `;
 
@@ -408,21 +461,25 @@ function judgeAnswer(formData) {
   render();
 }
 
+function setView(view) {
+  state.view = view;
+  render();
+}
+
 function bindEvents() {
   const quizViewButton = document.querySelector("#quizViewButton");
   if (quizViewButton) {
-    quizViewButton.addEventListener("click", () => {
-      state.view = "quiz";
-      render();
-    });
+    quizViewButton.addEventListener("click", () => setView(VIEW_QUIZ));
   }
 
   const listViewButton = document.querySelector("#listViewButton");
   if (listViewButton) {
-    listViewButton.addEventListener("click", () => {
-      state.view = "list";
-      render();
-    });
+    listViewButton.addEventListener("click", () => setView(VIEW_LIST));
+  }
+
+  const cheatViewButton = document.querySelector("#cheatViewButton");
+  if (cheatViewButton) {
+    cheatViewButton.addEventListener("click", () => setView(VIEW_CHEAT));
   }
 
   const listSearchInput = document.querySelector("#listSearchInput");

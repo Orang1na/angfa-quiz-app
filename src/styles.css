@@ -473,6 +473,39 @@ input[type="text"]:focus {
   text-underline-offset: 0.2em;
 }
 
+.cheat-sheet {
+  padding: 20px;
+  border: 1px solid var(--line);
+  border-radius: 30px;
+  background: rgba(255, 251, 247, 0.86);
+  box-shadow: var(--shadow-soft);
+  backdrop-filter: blur(14px);
+  display: grid;
+  gap: 20px;
+}
+
+.cheat-link {
+  color: var(--brand-deep);
+  font-weight: 700;
+  text-underline-offset: 0.2em;
+}
+
+.pdf-frame {
+  overflow: hidden;
+  border: 1px solid rgba(24, 22, 19, 0.08);
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.92);
+  box-shadow: var(--shadow-card);
+}
+
+.pdf-embed {
+  display: block;
+  width: 100%;
+  min-height: 1200px;
+  border: 0;
+  background: #ffffff;
+}
+
 @media (max-width: 900px) {
   .hero,
   .board {
@@ -522,5 +555,8 @@ input[type="text"]:focus {
 
   .product-card {
     grid-template-rows: 220px auto;
+  }
+  .pdf-embed {
+    min-height: 820px;
   }
 }
